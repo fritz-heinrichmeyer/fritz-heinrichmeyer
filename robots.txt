@@ -1,4 +1,4 @@
-Sitemap: http://www.nlp-impulse.com/nikola/sitemapindex.xml
+Sitemap: https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/sitemapindex.xml
 
 User-Agent: *
-Host: www.nlp-impulse.com
+Host: fritz-heinrichmeyer.github.io
