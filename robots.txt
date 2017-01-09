@@ -1,0 +1,4 @@
+Sitemap: http://www.nlp-impulse.com/nikola/sitemapindex.xml
+
+User-Agent: *
+Host: www.nlp-impulse.com

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>fritzer.fernuni-hagen.de</title><link>http://www.nlp-impulse.com/nikola/</link><description>This is a demo site for Nikola.</description><atom:link type="application/rss+xml" href="http://www.nlp-impulse.com/nikola/rss.xml" rel="self"></atom:link><language>de</language><lastBuildDate>Fri, 06 Jan 2017 15:43:08 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>AntInputTask</title><link>http://www.nlp-impulse.com/nikola/posts/antinputtask/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://ant.apache.org/manual/Tasks/input.html"&gt;(Quelle)&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;&amp;lt;input&lt;/dt&gt;
+&lt;dd&gt;message="Please enter db-username:"
+addproperty="db.user" /&amp;gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;-input&lt;/p&gt;
+&lt;p&gt;message="Please enter db-username:"&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;addproperty="db.user"&lt;/p&gt;
+&lt;p&gt;means that existing properties cannot be overridden&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid>http://www.nlp-impulse.com/nikola/posts/antinputtask/</guid><pubDate>Thu, 05 Jan 2017 10:37:51 GMT</pubDate></item></channel></rss>
