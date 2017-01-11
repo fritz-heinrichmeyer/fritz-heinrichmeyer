@@ -7,11 +7,10 @@
 .. description: 
 .. type: text
 
-`(Quelle) <http://ant.apache.org/manual/Tasks/input.html>`_.
-
+Schreibe hier deinen Eintrag hin.
 
    <input
-    message="Please enter db-password:"
+    message="Please enter db-username:"
     addproperty="db.user" />
 
 -input

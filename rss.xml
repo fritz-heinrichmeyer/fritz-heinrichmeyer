@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>fritzer.fernuni-hagen.de</title><link>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/</link><description>This is a demo site for Nikola.</description><atom:link type="application/rss+xml" href="https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/rss.xml" rel="self"></atom:link><language>de</language><lastBuildDate>Mon, 09 Jan 2017 19:45:45 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>AntInputTask</title><link>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/posts/antinputtask/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://ant.apache.org/manual/Tasks/input.html"&gt;(Quelle)&lt;/a&gt;.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/</link><description>This is a demo site for Nikola.</description><atom:link href="https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>de</language><lastBuildDate>Wed, 11 Jan 2017 14:51:09 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>AntInputTask</title><link>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/posts/antinputtask/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Schreibe hier deinen Eintrag hin.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;&amp;lt;input&lt;/dt&gt;
-&lt;dd&gt;message="Please enter db-password:"
+&lt;dd&gt;message="Please enter db-username:"
 addproperty="db.user" /&amp;gt;&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/blockquote&gt;
