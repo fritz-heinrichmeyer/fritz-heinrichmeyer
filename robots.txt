@@ -1,4 +1,4 @@
-Sitemap: https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/sitemapindex.xml
+Sitemap: https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/sitemapindex.xml
 
 User-Agent: *
 Host: fritz-heinrichmeyer.github.io
