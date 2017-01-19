@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: antinputtask für Fritz Heinrichmeyer
+.. description: 
 .. type: text
 
   `(Quelle) <http://ant.apache.org/manual/Tasks/input.html>`_ 

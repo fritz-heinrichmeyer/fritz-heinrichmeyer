@@ -5,7 +5,7 @@
 .. tags: 
 .. category:  
 .. link: 
-.. description: sonstiges für Fritz Heinrichmeyer
+.. description: 
 .. type: text
 -->
 

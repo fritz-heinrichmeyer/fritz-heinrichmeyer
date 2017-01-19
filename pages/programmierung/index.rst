@@ -4,7 +4,7 @@
 .. tags: 
 .. category:    
 .. link: 
-.. description: programmierung für Fritz Heinrichmeyer
+.. description: 
 .. type: text
 .
 Abschnitt
