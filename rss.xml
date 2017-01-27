@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</link><description>This is a demo site for Nikola.</description><atom:link href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Fri, 27 Jan 2017 13:40:54 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>RSTtablesExperimente</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/rsttablesexperimente/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;ul class="simple"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</link><description>This is a demo site for Nikola.</description><atom:link href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>de</language><lastBuildDate>Fri, 27 Jan 2017 17:43:50 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>RSTtablesExperimente</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/rsttablesexperimente/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://docutils.sourceforge.net/docs/ref/rst/directives.html#class"&gt;(Quellen RST Für Fortgeschrittene )&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://getnikola.com/quickstart.html"&gt;A reStructuredText Primer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -74,7 +74,7 @@ Ende div class=row&lt;/p&gt;
 Ende div class=row&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;text und Bilder&lt;/p&gt;
-&lt;p&gt;Für die Ende der  rst- „raw“ Umgebung ist er rst-„..“-Ansatz (Zeile 63 in file.rst.) notwendig.&lt;/p&gt;
+&lt;p&gt;Für die Ende der  rst- „raw“ Umgebung ist er rst-„..“-Ansatz (Zeile 46 in rsttablesexperimente.rst) notwendig.&lt;/p&gt;
 &lt;p&gt;Grid System  und rst- „raw“ Umgebung mit „Bootstrap“.CSS- stylesheets  in RST zu arbeiten  ist möglich, aber nicht sehr komfortabel.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Cells&lt;/li&gt;
