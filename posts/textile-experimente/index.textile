@@ -14,7 +14,8 @@ I searched "textile":http://redcloth.org/hobix.com/textile.
 
 "Wikipedia":http://en.wikipedia.org/
 
-|_. First Header |_. Second Header |
+| First Header | Second Header |
+
 | Einzelsupervision: | Supervision von Einzelperson |
 
 | Gruppensupervision: | Mehrere Personen aus unterschiedlichen Institutionen und/oder Arbeitsbereichen treffen sich im Rahmen einer Supervisionsgruppe mit einem Supervisor |
@@ -47,7 +48,4 @@ Wir sehen unsere Teilnehmer als gleichwertige Partner an, freuen uns
 auf die Bereicherungen durch sie und wünschen uns von ihnen ehrliches
 Feedback.
 
-
-  <img src="/luise.jpg" class="img-circle"  alt="Ein schönes Bild" title="Ein schönes Bild" />
- 
- 
+!NLP_Practitioner_7.jpg!
