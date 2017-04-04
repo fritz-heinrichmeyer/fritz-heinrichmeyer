@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</loc>
-  <lastmod>2017-03-21T11:17:00Z</lastmod>
+  <lastmod>2017-04-04T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/2017/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/archive.html</loc>
-  <lastmod>2017-03-21T10:48:00Z</lastmod>
+  <lastmod>2017-04-04T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/blog/</loc>
@@ -63,7 +63,7 @@
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/</loc>
-  <lastmod>2017-03-21T10:48:00Z</lastmod>
+  <lastmod>2017-04-04T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/antinputtask/</loc>
@@ -72,6 +72,10 @@
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/rsttablesexperimente/</loc>
   <lastmod>2017-01-21T09:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/shortcodeexperimenten/</loc>
+  <lastmod>2017-04-04T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/sperber/</loc>

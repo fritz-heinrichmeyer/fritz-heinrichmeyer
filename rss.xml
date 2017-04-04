@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</link><description>This is a demo site for Nikola.</description><atom:link href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>de</language><lastBuildDate>Tue, 21 Mar 2017 11:17:42 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sperber</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/sperber/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;img alt="Ist er nicht süß?" class="align-center" src="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/Sperber.jpg"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</link><description>This is a demo site for Nikola.</description><atom:link rel="self" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/rss.xml" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Tue, 04 Apr 2017 12:33:03 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>shortcodeExperimenten</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/shortcodeexperimenten/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode"&gt;
+&lt;h2&gt;Experimenten mit Makotemplates in Python und a shortcode&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+&lt;/p&gt;&lt;table border="1" class="table-striped docutils"&gt;
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+&lt;/table&gt;
+
+
+&lt;/div&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Experimenten mit Makotemplates in Python und a shortcode&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/shortcodes/shortcodes.tmpl"&gt;shortcodes (Source)&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0&lt;/li&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;li&gt;2&lt;/li&gt;
+&lt;li&gt;3&lt;/li&gt;
+&lt;li&gt;4&lt;/li&gt;
+&lt;li&gt;5&lt;/li&gt;
+&lt;li&gt;6&lt;/li&gt;
+&lt;li&gt;7&lt;/li&gt;
+&lt;li&gt;8&lt;/li&gt;
+&lt;li&gt;9&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--  --&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/shortcodeexperimenten/</guid><pubDate>Tue, 04 Apr 2017 08:15:47 GMT</pubDate></item><item><title>Sperber</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/sperber/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;img alt="Ist er nicht süß?" class="align-center" src="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/Sperber.jpg"&gt;
 &lt;div class="section" id="der-sperber-greifvogel-uberfall-in-hemer"&gt;
 &lt;h2&gt;Der Sperber(Greifvögel) Überfall in Hemer:&lt;/h2&gt;
 &lt;p&gt;Ist er nicht süß?&lt;/p&gt;
