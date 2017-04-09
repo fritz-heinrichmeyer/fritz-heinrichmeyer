@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</link><description>This is a demo site for Nikola.</description><atom:link href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Sat, 08 Apr 2017 20:52:18 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>shortcodeExperimenten</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/shortcodeexperimenten/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</link><description>This is a demo site for Nikola.</description><atom:link href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Sun, 09 Apr 2017 05:57:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>shortcodeExperimenten</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/shortcodeexperimenten/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode"&gt;
 &lt;h2&gt;Experimenten mit Makotemplates in Python und a shortcode&lt;/h2&gt;
 &lt;!--  --&gt;
 &lt;p&gt;
@@ -81,7 +81,10 @@
 +------------
 +------------
 &lt;/p&gt;
-&lt;p&gt;(es klappt nicht!)&lt;/p&gt;
+&lt;div class="section" id="shortcodes-inline-and-restructuredtext-and-mako-simultaneously-fail"&gt;
+&lt;h3&gt;Shortcodes inline and reStructuredText and Mako simultaneously fail!&lt;/h3&gt;
+&lt;p&gt;(bzw. es klappt nicht!)&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</description><guid>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/shortcodeexperimenten/</guid><pubDate>Tue, 04 Apr 2017 08:15:47 GMT</pubDate></item><item><title>Sperber</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/sperber/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;img alt="Ist er nicht süß?" class="align-center" src="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/Sperber.jpg"&gt;
 &lt;div class="section" id="der-sperber-greifvogel-uberfall-in-hemer"&gt;
 &lt;h2&gt;Der Sperber(Greifvögel) Überfall in Hemer:&lt;/h2&gt;
