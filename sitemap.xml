@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</loc>
-  <lastmod>2017-05-22T08:34:00Z</lastmod>
+  <lastmod>2017-06-29T11:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/2017/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/archive.html</loc>
-  <lastmod>2017-04-08T19:28:00Z</lastmod>
+  <lastmod>2017-06-29T06:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/blog/</loc>
@@ -38,6 +38,18 @@
   <lastmod>2017-01-11T16:41:00Z</lastmod>
  </url>
  <url>
+  <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/diskrete_faltung/</loc>
+  <lastmod>2017-06-29T06:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/java_drei_d_funktionsplotter/</loc>
+  <lastmod>2017-06-29T07:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/java_zwei_d_funktionsplotter/</loc>
+  <lastmod>2017-06-29T07:04:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/lehre/</loc>
   <lastmod>2017-01-11T16:41:00Z</lastmod>
  </url>
@@ -54,6 +66,10 @@
   <lastmod>2017-01-11T16:41:00Z</lastmod>
  </url>
  <url>
+  <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/systementwurf_mit_der_maus/</loc>
+  <lastmod>2017-06-29T06:52:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/post/</loc>
   <lastmod>2017-01-05T11:44:00Z</lastmod>
  </url>
@@ -63,11 +79,15 @@
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/</loc>
-  <lastmod>2017-04-04T08:20:00Z</lastmod>
+  <lastmod>2017-06-29T06:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/antinputtask/</loc>
   <lastmod>2017-01-11T16:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/java-applets/</loc>
+  <lastmod>2017-06-29T06:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/rsttablesexperimente/</loc>

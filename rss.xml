@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</link><description>This is a demo site for Nikola.</description><atom:link href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Sun, 09 Apr 2017 05:57:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>shortcodeExperimenten</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/shortcodeexperimenten/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/</link><description>This is a demo site for Nikola.</description><atom:link href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Thu, 29 Jun 2017 07:42:18 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Java-Applets</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/java-applets/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Hier finden Sie Java-Applets zu den Fachgebieten Elektronische Schaltungen und Digitale Signalverarbeitung.&lt;/p&gt;
+&lt;p&gt;Ab Chrome-Version 45 Java-Applets funktionieren nicht mehr!&lt;/p&gt;
+&lt;p&gt;Ab Firefox-Version 52 (im März 2017 freigegeben) funktionieren Java-Applets nicht mehr!. Schade.&lt;/p&gt;
+&lt;p&gt;Sie müssen "appletviewer &amp;lt;url&amp;gt;" verwenden (in jdk(Java Java Development Kit)-131 enthalten) &lt;a class="reference external" href="http://www.oracle.com/technetwork/java/javase/downloads/index.html"&gt;Java SE 8 Update 131&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="diskrete-faltung"&gt;
+&lt;h2&gt;Diskrete Faltung&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/diskrete_faltung/index.html"&gt;Diskrete Faltung&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="systementwurf-mit-der-maus"&gt;
+&lt;h2&gt;Systementwurf mit der Maus&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/systementwurf_mit_der_maus/index.html"&gt;Systementwurf mit der Maus&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="java-2d-funktionsplotter"&gt;
+&lt;h2&gt;Java 2D Funktionsplotter&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/java_zwei_d_funktionsplotter/index.html"&gt;Java 2D Funktionsplotter&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="java-3d-funktionsplotter"&gt;
+&lt;h2&gt;Java 3D Funktionsplotter&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/java_drei_d_funktionsplotter/index.html"&gt;Java 3D Funktionsplotter&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/java-applets/</guid><pubDate>Thu, 29 Jun 2017 06:10:45 GMT</pubDate></item><item><title>shortcodeExperimenten</title><link>https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/shortcodeexperimenten/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode"&gt;
 &lt;h2&gt;Experimenten mit Makotemplates in Python und a shortcode&lt;/h2&gt;
 &lt;!--  --&gt;
 &lt;p&gt;
