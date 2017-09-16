@@ -96,32 +96,41 @@
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
-<p><a class="reference external" href="script.pdf">script.pdf</a></p>
+<!-- `script.pdf <script.pdf>`_ -->
 <p>Dissertation, Universität Erlangen-Nürnberg 1989</p>
 <div class="section" id="beitrage-zur-losung-des-approximationsproblems-im-tschebyscheff-schen-sinne-beim-systementwurf">
 <h2>Beiträge zur Lösung des Approximationsproblems im Tschebyscheff'schen Sinne beim Systementwurf</h2>
 <p>Das Programm TOPT wurde in <em>C</em> geschrieben</p>
 <p>C++ virtuelle Klassen und virtuelle Methoden wurden durch C Zeiger simuliert.</p>
 <p>Beispiel:</p>
-<pre class="code C"><a name="rest_code_344c234d6074490487fb60bfeb05d657-1"></a><span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-2"></a> <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-3"></a>  <span class="kt">void</span> <span class="p">(</span><span class="o">*</span><span class="n">fu</span><span class="p">[</span><span class="mi">3</span><span class="p">])(</span><span class="kt">void</span><span class="p">);</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-4"></a> <span class="p">}</span> <span class="n">PARA_FU</span><span class="p">;</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-5"></a> <span class="k">typedef</span> <span class="nf">double</span> <span class="p">(</span><span class="o">*</span> <span class="n">STABFUNP</span><span class="p">)(</span><span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="n">OPT_LINE</span> <span class="o">*</span><span class="p">);</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-6"></a>  <span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-7"></a>       <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-8"></a>       <span class="kt">void</span> <span class="p">(</span><span class="o">*</span> <span class="n">fr</span><span class="p">)(</span><span class="n">COMPLEX</span> <span class="o">*</span><span class="p">,</span> <span class="kt">double</span><span class="p">);</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-9"></a>       <span class="n">STABFUNP</span> <span class="n">stabtest</span><span class="p">;</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-10"></a>       <span class="n">PARA_FU</span> <span class="o">*</span><span class="n">para</span><span class="p">;</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-11"></a>       <span class="kt">double</span> <span class="n">LogFak</span><span class="p">;</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-12"></a>       <span class="kt">double</span> <span class="n">DmL</span><span class="p">;</span>
-<a name="rest_code_344c234d6074490487fb60bfeb05d657-13"></a> <span class="p">}</span> <span class="n">EBENEN_PAR</span><span class="p">;</span>
+<pre class="code C"><a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-1"></a><span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-2"></a> <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-3"></a>  <span class="kt">void</span> <span class="p">(</span><span class="o">*</span><span class="n">fu</span><span class="p">[</span><span class="mi">3</span><span class="p">])(</span><span class="kt">void</span><span class="p">);</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-4"></a> <span class="p">}</span> <span class="n">PARA_FU</span><span class="p">;</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-5"></a> <span class="k">typedef</span> <span class="nf">double</span> <span class="p">(</span><span class="o">*</span> <span class="n">STABFUNP</span><span class="p">)(</span><span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="n">OPT_LINE</span> <span class="o">*</span><span class="p">);</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-6"></a>  <span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-7"></a>       <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-8"></a>       <span class="kt">void</span> <span class="p">(</span><span class="o">*</span> <span class="n">fr</span><span class="p">)(</span><span class="n">COMPLEX</span> <span class="o">*</span><span class="p">,</span> <span class="kt">double</span><span class="p">);</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-9"></a>       <span class="n">STABFUNP</span> <span class="n">stabtest</span><span class="p">;</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-10"></a>       <span class="n">PARA_FU</span> <span class="o">*</span><span class="n">para</span><span class="p">;</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-11"></a>       <span class="kt">double</span> <span class="n">LogFak</span><span class="p">;</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-12"></a>       <span class="kt">double</span> <span class="n">DmL</span><span class="p">;</span>
+<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-13"></a> <span class="p">}</span> <span class="n">EBENEN_PAR</span><span class="p">;</span>
 </pre>
 </div>
 <div class="section" id="beispiele">
 <h2>Beispiele</h2>
-<p>Diskretes Psophometerfilter:</p>
-<img alt="psophometer" src="psophometer.gif"><p>Gleichzeitige Approximation von Dämpfung und Gruppenlaufzeit:</p>
+</div>
+<div class="section" id="diskretes-psophometerfilter">
+<h2>Diskretes Psophometerfilter</h2>
+<p>Ergebnis einer Dämpfungsnäherung mit vielen verschiedenen Gewichten.</p>
+<img alt="psophometer" src="psophometer.gif"><p>Das nächste Bild zeigt die normalisierte Fehlerkurve</p>
+<img alt="Fehlerkurve" src="error.gif">
+</div>
+<div class="section" id="luminanzfilter">
+<h2>Luminanzfilter</h2>
+<p>Gleichzeitige Approximation von Dämpfung und Gruppenlaufzeit:</p>
+<p>Die Gruppenverzögerung eines gegebenen Anti-Alias-Tiefpasses wurde ausgeglichen. Das Gewicht der Fehlerfunktion zerfällt linear, so dass die Toleranzröhre eher wie eine Trompete aussieht.</p>
 <img alt="luminanz" src="luminanz.gif">
 </div>
 </div>
