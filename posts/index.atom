@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet href="/assets/xml/atom.xsl" type="text/xsl media="all"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom">
+  <title>Fritz Heinrichmeyer</title>
+  <id>/posts/index.atom</id>
+  <updated>2017-09-22T16:14:56Z</updated>
+  <author>
+    <name>Fritz Heinrichmeyer</name>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/posts/index.atom"/>
+  <link rel="alternate" type="text/html" href="/posts/"/>
+  <generator uri="https://getnikola.com/">Nikola</generator>
+  <entry>
+    <title>Java-Applets</title>
+    <id>/posts/java-applets/</id>
+    <updated>2017-06-29T08:10:45+02:00</updated>
+    <published>2017-06-29T08:10:45+02:00</published>
+    <author>
+      <name>Fritz Heinrichmeyer</name>
+    </author>
+    <link rel="alternate" type="text/html" href="/posts/java-applets/"/>
+    <summary type="html">&lt;div&gt;&lt;p&gt;Hier finden Sie Java-Applets zu den Fachgebieten Elektronische Schaltungen und Digitale Signalverarbeitung.&lt;/p&gt;
+&lt;p&gt;Ab Chrome-Version 45 Java-Applets funktionieren nicht mehr!&lt;/p&gt;
+&lt;p&gt;Ab Firefox-Version 52 (im März 2017 freigegeben) funktionieren Java-Applets nicht mehr!. Schade.&lt;/p&gt;
+&lt;p&gt;Sie müssen "appletviewer &amp;lt;url&amp;gt;" verwenden (in jdk(Java Java Development Kit)-131 enthalten) &lt;a class="reference external" href="http://www.oracle.com/technetwork/java/javase/downloads/index.html"&gt;Java SE 8 Update 131&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="diskrete-faltung"&gt;
+&lt;h2&gt;Diskrete Faltung&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/pages/diskrete_faltung/index.html"&gt;Diskrete Faltung&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="systementwurf-mit-der-maus"&gt;
+&lt;h2&gt;Systementwurf mit der Maus&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/pages/systementwurf_mit_der_maus/index.html"&gt;Systementwurf mit der Maus&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="java-2d-funktionsplotter"&gt;
+&lt;h2&gt;Java 2D Funktionsplotter&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/pages/java_zwei_d_funktionsplotter/index.html"&gt;Java 2D Funktionsplotter&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="java-3d-funktionsplotter"&gt;
+&lt;h2&gt;Java 3D Funktionsplotter&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/pages/java_drei_d_funktionsplotter/index.html"&gt;Java 3D Funktionsplotter&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+    <category term="applets" label="applets"/>
+    <category term="java" label="Java"/>
+  </entry>
+  <entry>
+    <title>shortcode Experimente</title>
+    <id>/posts/shortcodeexperimenten/</id>
+    <updated>2017-04-04T10:15:47+02:00</updated>
+    <published>2017-04-04T10:15:47+02:00</published>
+    <author>
+      <name>Fritz Heinrichmeyer</name>
+    </author>
+    <link rel="alternate" type="text/html" href="/posts/shortcodeexperimenten/"/>
+    <summary type="html">&lt;div&gt;&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode"&gt;
+&lt;h2&gt;Experimenten mit Makotemplates in Python und a shortcode&lt;/h2&gt;
+&lt;!--  --&gt;
+&lt;p&gt;
+
+
+
+
+
+&lt;/p&gt;&lt;table border="1" class="table-striped docutils"&gt;
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+        
+    &lt;tr&gt;
+        &lt;td&gt;0&lt;/td&gt;        &lt;td&gt;1&lt;/td&gt;        &lt;td&gt;2&lt;/td&gt;        &lt;td&gt;3&lt;/td&gt;        &lt;td&gt;4&lt;/td&gt;        &lt;td&gt;5&lt;/td&gt;        &lt;td&gt;6&lt;/td&gt;        &lt;td&gt;7&lt;/td&gt;        &lt;td&gt;8&lt;/td&gt;        &lt;td&gt;9&lt;/td&gt;    &lt;/tr&gt;
+
+&lt;/table&gt;
+
+
+&lt;/div&gt;
+&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode-und-inline"&gt;
+&lt;h2&gt;(Experimenten mit Makotemplates in Python und a shortcode und inline)&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/shortcodes/shortcodes.tmpl"&gt;shortcodes (Source)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+| body row 0
+| body row 1
+| body row 2
+| body row 3
+| body row 4
+| body row 5
+| body row 6
+| body row 7
+| body row 8
+| body row 9
+
+
+2
++------------
++------------
++------------
++------------
++------------
++------------
++------------
++------------
++------------
++------------
+&lt;/p&gt;
+&lt;div class="section" id="shortcodes-inline-and-restructuredtext-and-mako-simultaneously-fail"&gt;
+&lt;h3&gt;Shortcodes inline and reStructuredText and Mako simultaneously fail!&lt;/h3&gt;
+&lt;p&gt;(bzw. es klappt nicht!)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+  </entry>
+  <entry>
+    <title>Sperber</title>
+    <id>/posts/sperber/</id>
+    <updated>2017-03-21T11:47:58+01:00</updated>
+    <published>2017-03-21T11:47:58+01:00</published>
+    <author>
+      <name>Fritz Heinrichmeyer</name>
+    </author>
+    <link rel="alternate" type="text/html" href="/posts/sperber/"/>
+    <summary type="html">&lt;div&gt;&lt;img alt="Ist er nicht süß?" class="align-center" src="/Sperber.jpg"&gt;
+&lt;div class="section" id="der-sperber-greifvogel-uberfall-in-hemer"&gt;
+&lt;h2&gt;Der Sperber(Greifvögel) Überfall in Hemer:&lt;/h2&gt;
+&lt;p&gt;Ist er nicht süß?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+  </entry>
+  <entry>
+    <title>textile Experimente</title>
+    <id>/posts/textile-experimente/</id>
+    <updated>2017-01-30T09:41:28+01:00</updated>
+    <published>2017-01-30T09:41:28+01:00</published>
+    <author>
+      <name>Fritz Heinrichmeyer</name>
+    </author>
+    <link rel="alternate" type="text/html" href="/posts/textile-experimente/"/>
+    <summary type="html">&lt;div&gt;&lt;p&gt;I searched &lt;a href="http://redcloth.org/hobix.com/textile"&gt;textile&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;p&gt;&lt;a href="http://en.wikipedia.org/"&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+	&lt;table&gt;
+		&lt;tr&gt;
+			&lt;th&gt;First Header &lt;/th&gt;
+			&lt;th&gt;Second Header &lt;/th&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; Einzelsupervision: &lt;/td&gt;
+			&lt;td&gt; Supervision von Einzelperson &lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/table&gt;
+
+	&lt;table&gt;
+		&lt;tr&gt;
+			&lt;td&gt; Gruppensupervision: &lt;/td&gt;
+			&lt;td&gt; Mehrere Personen aus unterschiedlichen Institutionen und/oder Arbeitsbereichen treffen sich im Rahmen einer Supervisionsgruppe mit einem Supervisor &lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/table&gt;
+
+	&lt;table&gt;
+		&lt;tr&gt;
+			&lt;td&gt; Teamsupervision: &lt;/td&gt;
+			&lt;td&gt; Ein bestehendes Arbeitsteam trifft sich, um Fragen der Zusammenarbeit aber auch einzelner Teilnehmer zu reflektieren &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; Führungssupervision: &lt;/td&gt;
+			&lt;td&gt; Führungsverhalten wird thematisiert &lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/table&gt;
+
+	&lt;p&gt;&lt;strong&gt;Unsere Werte und Ziele&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;p&gt;Als Trainer sehen wir unsere Aufgabe darin, für unsere Teilnehmer ein&lt;br&gt;
+angenehmes Klima zu schaffen, in dem Lernen zum Vergnügen und Abenteuer&lt;br&gt;
+wird. Erkenntnisse vermitteln wir in spielerischer Form mit Hilfe vieler&lt;br&gt;
+Übungen. Neue Verhaltensstrategien werden praktisch erprobt und die&lt;br&gt;
+Wahrnehmung für zwischenmenschliche Prozesse wird geschärft.&lt;/p&gt;
+
+	&lt;p&gt;Wir unterstützen unsere Teilnehmer darin, ihre eigenen Stärken und&lt;br&gt;
+Fähigkeiten zu nutzen und Ihre Schwächen als Chance zur Verbesserung zu&lt;br&gt;
+erkennen, um sich selbst besser gerecht zu werden und sich&lt;br&gt;
+weiterzuentwickeln.&lt;/p&gt;
+
+	&lt;p&gt;Unsere Teilnehmer sollen erleben, wie sehr ihr Erfolg in der&lt;br&gt;
+Kommunikation mit anderen Menschen von ihrer eigenen Werthaltung und&lt;br&gt;
+Einstellung ihren Gesprächspartnern gegenüber getragen wird.  Sie sollen&lt;br&gt;
+erlernen, wie man wirkliches Interesse an den Bedürfnissen anderer&lt;br&gt;
+Menschen entwickelt, ohne dass die eigenen Bedürfnisse dabei auf der&lt;br&gt;
+Strecke bleiben.&lt;/p&gt;
+
+	&lt;p&gt;Wir sehen unsere Teilnehmer als gleichwertige Partner an, freuen uns&lt;br&gt;
+auf die Bereicherungen durch sie und wünschen uns von ihnen ehrliches&lt;br&gt;
+Feedback.&lt;/p&gt;
+
+  &lt;img src="/luise.jpg" class="img-circle" alt="Ein schönes Bild" title="Ein schönes Bild"&gt;&lt;/div&gt;</summary>
+  </entry>
+  <entry>
+    <title>RSTtables Experimente</title>
+    <id>/posts/rsttablesexperimente/</id>
+    <updated>2017-01-21T10:01:54+01:00</updated>
+    <published>2017-01-21T10:01:54+01:00</published>
+    <author>
+      <name>Fritz Heinrichmeyer</name>
+    </author>
+    <link rel="alternate" type="text/html" href="/posts/rsttablesexperimente/"/>
+    <summary type="html">&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docutils.sourceforge.net/docs/ref/rst/directives.html#class"&gt;(Quellen RST Für Fortgeschrittene )&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://getnikola.com/quickstart.html"&gt;A reStructuredText Primer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;link href="/posts/rsttablesexperimente/all-nocdn.css" rel="stylesheet" type="text/css"&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-md-6"&gt;&lt;p&gt;Tables Experimente, Grid system und Bilder&lt;/p&gt;
+&lt;table border="1" class="table-striped docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="34%"&gt;
+&lt;col width="34%"&gt;
+&lt;col width="31%"&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Header 1&lt;/th&gt;
+&lt;th class="head"&gt;Header 2&lt;/th&gt;
+&lt;th class="head"&gt;Header 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;body row 1&lt;/td&gt;
+&lt;td&gt;column 2&lt;/td&gt;
+&lt;td&gt;column 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;body row 2&lt;/td&gt;
+&lt;td colspan="2"&gt;Cells may span columns.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;body row 3&lt;/td&gt;
+&lt;td rowspan="2"&gt;Cells may
+span rows.&lt;/td&gt;
+&lt;td rowspan="2"&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Cells&lt;/li&gt;
+&lt;li&gt;contain&lt;/li&gt;
+&lt;li&gt;blocks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;body row 4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;body row 1&lt;/td&gt;
+&lt;td&gt;column 2&lt;/td&gt;
+&lt;td&gt;column 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;body row 2&lt;/td&gt;
+&lt;td colspan="2"&gt;Cells may span columns.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;body row 3&lt;/td&gt;
+&lt;td rowspan="2"&gt;Cells may
+span rows.&lt;/td&gt;
+&lt;td rowspan="2"&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Cells&lt;/li&gt;
+&lt;li&gt;contain&lt;/li&gt;
+&lt;li&gt;blocks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;body row 4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;div class="col-md-6"&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Cells&lt;/li&gt;
+&lt;li&gt;contain&lt;/li&gt;
+&lt;li&gt;blocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;br&gt;&lt;!--  --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ende div class=row
+Ende div class=row&lt;/p&gt;
+&lt;blockquote&gt;
+Ende div class=row&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;text und Bilder&lt;/p&gt;
+&lt;p&gt;Für die Ende der  rst- „raw“ Umgebung ist er rst-„..“-Ansatz (Zeile 63 in rsttablesexperimente.rst) notwendig.&lt;/p&gt;
+&lt;p&gt;Grid System  und rst- „raw“ Umgebung mit „Bootstrap“.CSS- stylesheets  in RST zu arbeiten  ist möglich, aber nicht sehr komfortabel.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Cells&lt;/li&gt;
+&lt;li&gt;contain&lt;/li&gt;
+&lt;li&gt;blocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ein schönes Bild:&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="ein schönes Bild" class="img-circle align-center" src="/luise.jpg"&gt;&lt;/div&gt;</summary>
+    <category term="java" label="Java"/>
+    <category term="rst" label="RST"/>
+  </entry>
+  <entry>
+    <title>AntInputTask</title>
+    <id>/posts/antinputtask/</id>
+    <updated>2017-01-05T11:37:51+01:00</updated>
+    <published>2017-01-05T11:37:51+01:00</published>
+    <author>
+      <name>Fritz Heinrichmeyer</name>
+    </author>
+    <link rel="alternate" type="text/html" href="/posts/antinputtask/"/>
+    <summary type="html">&lt;div&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://ant.apache.org/manual/Tasks/input.html"&gt;(Quelle)&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;&amp;lt;input&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first"&gt;message="Please enter db.password for ${db.user}:"&lt;/p&gt;
+&lt;p class="last"&gt;addproperty="db.password" /&amp;gt;&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;-input&lt;/p&gt;
+&lt;p&gt;message="Please enter db-username:"&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;addproperty="db.user"&lt;/p&gt;
+&lt;p&gt;means that existing properties cannot be overridden&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</summary>
+    <category term="java" label="Java"/>
+  </entry>
+</feed>

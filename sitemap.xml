@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2017-09-15T11:12:00Z</lastmod>
+  <lastmod>2017-09-22T07:13:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2017-09-22T07:08:00Z</lastmod>
+  <lastmod>2017-09-22T16:32:00Z</lastmod>
  </url>
  <url>
   <loc>/blog/</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>/categories/</loc>
-  <lastmod>2017-08-31T17:20:00Z</lastmod>
+  <lastmod>2017-09-22T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/applets/</loc>
@@ -46,6 +46,10 @@
   <lastmod>2017-01-11T16:41:00Z</lastmod>
  </url>
  <url>
+  <loc>/index.htm</loc>
+  <lastmod>2017-09-18T09:42:00Z</lastmod>
+ </url>
+ <url>
   <loc>/listings/</loc>
   <lastmod>2017-01-11T16:41:00Z</lastmod>
  </url>
@@ -55,7 +59,7 @@
  </url>
  <url>
   <loc>/pages/diskrete_faltung/</loc>
-  <lastmod>2017-06-29T06:43:00Z</lastmod>
+  <lastmod>2017-10-01T14:14:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/impressum/</loc>
@@ -63,11 +67,11 @@
  </url>
  <url>
   <loc>/pages/java_drei_d_funktionsplotter/</loc>
-  <lastmod>2017-06-29T07:07:00Z</lastmod>
+  <lastmod>2017-10-01T14:14:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/java_zwei_d_funktionsplotter/</loc>
-  <lastmod>2017-06-29T07:04:00Z</lastmod>
+  <lastmod>2017-10-01T14:14:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/lehre/</loc>
@@ -87,7 +91,7 @@
  </url>
  <url>
   <loc>/pages/systementwurf_mit_der_maus/</loc>
-  <lastmod>2017-06-29T06:52:00Z</lastmod>
+  <lastmod>2017-10-01T14:14:00Z</lastmod>
  </url>
  <url>
   <loc>/post/</loc>
@@ -99,7 +103,7 @@
  </url>
  <url>
   <loc>/posts/</loc>
-  <lastmod>2017-06-29T06:22:00Z</lastmod>
+  <lastmod>2017-09-22T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/antinputtask/</loc>
