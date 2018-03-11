@@ -100,19 +100,19 @@
 <p>Das Programm TOPT wurde in <em>C</em> geschrieben</p>
 <p>C++ virtuelle Klassen und virtuelle Methoden wurden durch C Zeiger simuliert.</p>
 <p>Beispiel:</p>
-<pre class="code C"><a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-1"></a><span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-2"></a> <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-3"></a>  <span class="kt">void</span> <span class="p">(</span><span class="o">*</span><span class="n">fu</span><span class="p">[</span><span class="mi">3</span><span class="p">])(</span><span class="kt">void</span><span class="p">);</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-4"></a> <span class="p">}</span> <span class="n">PARA_FU</span><span class="p">;</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-5"></a> <span class="k">typedef</span> <span class="nf">double</span> <span class="p">(</span><span class="o">*</span> <span class="n">STABFUNP</span><span class="p">)(</span><span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="n">OPT_LINE</span> <span class="o">*</span><span class="p">);</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-6"></a>  <span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-7"></a>       <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-8"></a>       <span class="kt">void</span> <span class="p">(</span><span class="o">*</span> <span class="n">fr</span><span class="p">)(</span><span class="n">COMPLEX</span> <span class="o">*</span><span class="p">,</span> <span class="kt">double</span><span class="p">);</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-9"></a>       <span class="n">STABFUNP</span> <span class="n">stabtest</span><span class="p">;</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-10"></a>       <span class="n">PARA_FU</span> <span class="o">*</span><span class="n">para</span><span class="p">;</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-11"></a>       <span class="kt">double</span> <span class="n">LogFak</span><span class="p">;</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-12"></a>       <span class="kt">double</span> <span class="n">DmL</span><span class="p">;</span>
-<a name="rest_code_ab0749897c2444ab972ad2afa54f8e69-13"></a> <span class="p">}</span> <span class="n">EBENEN_PAR</span><span class="p">;</span>
+<pre class="code C"><a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-1"></a><span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-2"></a> <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-3"></a>  <span class="kt">void</span> <span class="p">(</span><span class="o">*</span><span class="n">fu</span><span class="p">[</span><span class="mi">3</span><span class="p">])(</span><span class="kt">void</span><span class="p">);</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-4"></a> <span class="p">}</span> <span class="n">PARA_FU</span><span class="p">;</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-5"></a> <span class="k">typedef</span> <span class="nf">double</span> <span class="p">(</span><span class="o">*</span> <span class="n">STABFUNP</span><span class="p">)(</span><span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="n">OPT_LINE</span> <span class="o">*</span><span class="p">);</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-6"></a>  <span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-7"></a>       <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-8"></a>       <span class="kt">void</span> <span class="p">(</span><span class="o">*</span> <span class="n">fr</span><span class="p">)(</span><span class="n">COMPLEX</span> <span class="o">*</span><span class="p">,</span> <span class="kt">double</span><span class="p">);</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-9"></a>       <span class="n">STABFUNP</span> <span class="n">stabtest</span><span class="p">;</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-10"></a>       <span class="n">PARA_FU</span> <span class="o">*</span><span class="n">para</span><span class="p">;</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-11"></a>       <span class="kt">double</span> <span class="n">LogFak</span><span class="p">;</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-12"></a>       <span class="kt">double</span> <span class="n">DmL</span><span class="p">;</span>
+<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-13"></a> <span class="p">}</span> <span class="n">EBENEN_PAR</span><span class="p">;</span>
 </pre>
 </div>
 <div class="section" id="beispiele">

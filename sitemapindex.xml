@@ -11,7 +11,7 @@
  </sitemap>
  <sitemap>
   <loc>/categories/applets.xml</loc>
-  <lastmod>2017-10-01T18:16:00Z</lastmod>
+  <lastmod>2018-03-11T16:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/java.atom</loc>
@@ -19,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>/categories/java.xml</loc>
-  <lastmod>2017-10-01T18:16:00Z</lastmod>
+  <lastmod>2018-03-11T16:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/rst.atom</loc>
@@ -27,11 +27,11 @@
  </sitemap>
  <sitemap>
   <loc>/categories/rst.xml</loc>
-  <lastmod>2017-09-20T06:34:00Z</lastmod>
+  <lastmod>2018-03-11T16:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/galleries/rss.xml</loc>
-  <lastmod>2018-01-02T14:05:00Z</lastmod>
+  <lastmod>2018-03-11T16:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/posts/index.atom</loc>
@@ -39,10 +39,10 @@
  </sitemap>
  <sitemap>
   <loc>/rss.xml</loc>
-  <lastmod>2017-10-01T18:16:00Z</lastmod>
+  <lastmod>2018-03-11T16:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/sitemap.xml</loc>
-  <lastmod>2018-01-02T14:05:00Z</lastmod>
+  <lastmod>2018-03-11T16:23:00Z</lastmod>
  </sitemap>
 </sitemapindex>
