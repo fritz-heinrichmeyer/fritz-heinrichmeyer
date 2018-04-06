@@ -6,67 +6,115 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/</loc>
-  <lastmod>2017-01-05T11:44:00Z</lastmod>
+  <loc>/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/2017/</loc>
-  <lastmod>2017-01-05T10:50:00Z</lastmod>
+  <loc>/2017/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/archive.html</loc>
-  <lastmod>2017-01-09T19:45:00Z</lastmod>
+  <loc>/2018/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/blog/</loc>
-  <lastmod>2017-01-05T11:37:00Z</lastmod>
+  <loc>/archive.html</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/blog/antinputtask/</loc>
-  <lastmod>2017-01-05T11:37:00Z</lastmod>
+  <loc>/blog/</loc>
+  <lastmod>2016-12-19T12:58:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/categories/</loc>
-  <lastmod>2016-12-25T09:56:00Z</lastmod>
+  <loc>/categories/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/galleries/</loc>
-  <lastmod>2017-01-06T16:02:00Z</lastmod>
+  <loc>/categories/applets/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/listings/</loc>
-  <lastmod>2016-12-25T09:56:00Z</lastmod>
+  <loc>/categories/java/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/pages/lehre/</loc>
-  <lastmod>2016-12-25T09:56:00Z</lastmod>
+  <loc>/categories/rst/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/pages/privates/</loc>
-  <lastmod>2016-12-25T09:56:00Z</lastmod>
+  <loc>/galleries/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/pages/programmierung/</loc>
-  <lastmod>2016-12-25T09:56:00Z</lastmod>
+  <loc>/listings/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/pages/sonstiges/</loc>
-  <lastmod>2016-12-25T09:56:00Z</lastmod>
+  <loc>/pages/Doktorarbeit/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/post/</loc>
-  <lastmod>2017-01-05T11:44:00Z</lastmod>
+  <loc>/pages/diskrete_faltung/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/post/antinputtask/</loc>
-  <lastmod>2017-01-05T11:44:00Z</lastmod>
+  <loc>/pages/impressum/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/posts/</loc>
-  <lastmod>2017-01-05T11:28:00Z</lastmod>
+  <loc>/pages/java_drei_d_funktionsplotter/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/posts/antinputtask/</loc>
-  <lastmod>2017-01-05T10:50:00Z</lastmod>
+  <loc>/pages/java_zwei_d_funktionsplotter/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/pages/lehre/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/pages/privates/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/pages/programmierung/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/pages/sonstiges/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/pages/systementwurf_mit_der_maus/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/antinputtask/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/java-applets/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/rsttablesexperimente/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/shortcodeexperimenten/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/sperber/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/textile-experimente/</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </url>
 </urlset>

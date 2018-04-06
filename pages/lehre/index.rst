@@ -1,26 +1,27 @@
-.. title: Lehre
+﻿.. title: Lehre
 .. slug: lehre
 .. date: 2016-12-12 13:50:58 UTC+01:00
-.. tags: 
+.. tags: Aphasie, Diplom
 .. category: 
 .. link: /lehre/index.hmtl
-.. description: lehre Fritz Heinrichmeyer
+.. description: lehre für Fritz Heinrichmeyer
 .. type: text
 
-habe ich zu Zeit keine Lehraufgabe (Schlaganfall, Aphasie_.)
-
-.. _Aphasie: https://de.wikipedia.org/wiki/Aphasie
 
 
-Ich werde zum Anfang Oktober 2016 in den Ruhestand versetzt!
 
-(Früher: siehe unten)
+
+
+
+Seit Oktober 2016 bin ich pensioniert.
+
+Während meiner Dienstzeit an der `Fernuniversität Hagen <http://www.fernuni-hagen.de/>`_ habe ich folgende Aufgaben erfüllt:
 
 
 Diplomstudiengang
 =================
 
-`Organisation der Praktika im Diplomstudiengang <http://www.fernuni-hagen.de/lges/lehrangebot/diplompraktika/>`_
+Organisation der Praktika im Diplomstudiengang 
 
 Praktikumsversuche
 ------------------
@@ -41,8 +42,8 @@ Master Elektro- und Informationstechnik
 
 Jeweils Betreuung zweier Vorlesungen, Prüfung, Praktikum und Seminar, Neueinschreibung nicht mehr möglich
 
-- Modul `21410 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_ds/>`_ Digitale Signalverarbeitung
-- Modul 21420 `21420 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_es/>`_ Elektronische Schaltungen †
-- Modul 21780 `21480 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_se/>`_ Softwarearchitektur und Entwicklungswerkzeuge †
+- Modul 21410  Digitale Signalverarbeitung
+- Modul 21420  Elektronische Schaltungen †
+- Modul 21780  Softwarearchitektur und Entwicklungswerkzeuge †
 
 † : Letztmalig im Wintersemester 2012/13

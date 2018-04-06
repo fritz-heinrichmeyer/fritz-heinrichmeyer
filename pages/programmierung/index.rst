@@ -4,26 +4,38 @@
 .. tags: 
 .. category:    
 .. link: 
-.. description: 
+.. description: programmierung für Fritz Heinrichmeyer
 .. type: text
 .
-Abschnitt
-=========
+
+Unten folgt eine Liste von Werkzeugen, die ich gerne benutze, um meine Projekte zu verwirklichen.
+
+
 
 reStructuredText
 ----------------
 
-_Hyperlinks in reST: https://de.wikipedia.org/wiki/ReStructuredText
+Hyperlinks in reST: https://de.wikipedia.org/wiki/ReStructuredText
+
+
+textile
+-------
+
+Textile is also available as `RedCloth <http://redcloth.org/>`_ for Ruby
+
+`Textile Reference <http://redcloth.org/hobix.com/textile>`_ 
 
 
 Markdown
 --------
 
-_Markdown:  https://de.wikipedia.org/wiki/Markdown
+Markdown:  https://de.wikipedia.org/wiki/Markdown
 
 Programmiersprachen
 -------------------
-
+`C <http://gcc.gnu.org/>`_
+ 
+ 
 `Java-Insel <http://openbook.galileocomputing.de/javainsel8/>`_
 
 `Ruby <http://ruby-doc.org/docs/ProgrammingRuby/>`_
@@ -31,11 +43,11 @@ Programmiersprachen
 Programme/Frameworks
 --------------------
 
-`Spring Framework <http://www.springsource.org/documentation>`_
+- `Spring Framework <http://www.springsource.org/documentation>`_
 
-`Maven <http://www.sonatype.com/books/mvnref-book/reference/public-book.html>`_
+- `Maven <http://www.sonatype.com/books/mvnref-book/reference/public-book.html>`_
 
-`Postgres <http://www.postgresql.org/docs/8.1/static/index.html>`_
+- `Postgres <http://www.postgresql.org/docs/8.1/static/index.html>`_
 
 Sonstiges
 ---------

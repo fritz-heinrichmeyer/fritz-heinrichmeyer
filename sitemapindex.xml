@@ -6,15 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/galleries/rss.xml</loc>
-  <lastmod>2017-01-09T19:45:00Z</lastmod>
+  <loc>/categories/applets.xml</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/rss.xml</loc>
-  <lastmod>2017-01-09T19:45:00Z</lastmod>
+  <loc>/categories/java.xml</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/sitemap.xml</loc>
-  <lastmod>2017-01-09T19:45:00Z</lastmod>
+  <loc>/categories/rst.xml</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>/galleries/rss.xml</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>/rss.xml</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>/sitemap.xml</loc>
+  <lastmod>2018-04-06T04:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>

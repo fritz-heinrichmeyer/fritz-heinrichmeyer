@@ -5,20 +5,12 @@
 .. tags: 
 .. category:  
 .. link: 
-.. description: 
+.. description: sonstiges für Fritz Heinrichmeyer
 .. type: text
 -->
 
 
 
-Sonstiges
-=========
-
-
-
-Alte Projekte
--------------
-`Alte Projekte <http://www.fernuni-hagen.de/lges_alt/heinrichmeyer/es-sun2/>`_. 
 
 Murphys Gesetze
 ---------------
@@ -31,7 +23,6 @@ Privates
 
 `Privates </pages/privates/index.html>`_.
 
-ProPra
-------
 
-`ProPra <http://www.fernuni-hagen.de/mathinf/studium/lehre/praktika/programmierpraktikum/>`_.
+
+
