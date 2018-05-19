@@ -100,19 +100,19 @@
 <p>Das Programm TOPT wurde in <em>C</em> geschrieben</p>
 <p>C++ virtuelle Klassen und virtuelle Methoden wurden durch C Zeiger simuliert.</p>
 <p>Beispiel:</p>
-<pre class="code C"><a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-1"></a><span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-2"></a> <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-3"></a>  <span class="kt">void</span> <span class="p">(</span><span class="o">*</span><span class="n">fu</span><span class="p">[</span><span class="mi">3</span><span class="p">])(</span><span class="kt">void</span><span class="p">);</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-4"></a> <span class="p">}</span> <span class="n">PARA_FU</span><span class="p">;</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-5"></a> <span class="k">typedef</span> <span class="nf">double</span> <span class="p">(</span><span class="o">*</span> <span class="n">STABFUNP</span><span class="p">)(</span><span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="n">OPT_LINE</span> <span class="o">*</span><span class="p">);</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-6"></a>  <span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-7"></a>       <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-8"></a>       <span class="kt">void</span> <span class="p">(</span><span class="o">*</span> <span class="n">fr</span><span class="p">)(</span><span class="n">COMPLEX</span> <span class="o">*</span><span class="p">,</span> <span class="kt">double</span><span class="p">);</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-9"></a>       <span class="n">STABFUNP</span> <span class="n">stabtest</span><span class="p">;</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-10"></a>       <span class="n">PARA_FU</span> <span class="o">*</span><span class="n">para</span><span class="p">;</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-11"></a>       <span class="kt">double</span> <span class="n">LogFak</span><span class="p">;</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-12"></a>       <span class="kt">double</span> <span class="n">DmL</span><span class="p">;</span>
-<a name="rest_code_bc954b2bce2244a7a76968f21f64dab9-13"></a> <span class="p">}</span> <span class="n">EBENEN_PAR</span><span class="p">;</span>
+<pre class="code C"><a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-1"></a><span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-2"></a> <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-3"></a>  <span class="kt">void</span> <span class="p">(</span><span class="o">*</span><span class="n">fu</span><span class="p">[</span><span class="mi">3</span><span class="p">])(</span><span class="kt">void</span><span class="p">);</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-4"></a> <span class="p">}</span> <span class="n">PARA_FU</span><span class="p">;</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-5"></a> <span class="k">typedef</span> <span class="nf">double</span> <span class="p">(</span><span class="o">*</span> <span class="n">STABFUNP</span><span class="p">)(</span><span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="kt">int</span> <span class="p">,</span> <span class="n">OPT_LINE</span> <span class="o">*</span><span class="p">);</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-6"></a>  <span class="k">typedef</span> <span class="k">struct</span> <span class="p">{</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-7"></a>       <span class="kt">int</span> <span class="n">art</span><span class="p">;</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-8"></a>       <span class="kt">void</span> <span class="p">(</span><span class="o">*</span> <span class="n">fr</span><span class="p">)(</span><span class="n">COMPLEX</span> <span class="o">*</span><span class="p">,</span> <span class="kt">double</span><span class="p">);</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-9"></a>       <span class="n">STABFUNP</span> <span class="n">stabtest</span><span class="p">;</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-10"></a>       <span class="n">PARA_FU</span> <span class="o">*</span><span class="n">para</span><span class="p">;</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-11"></a>       <span class="kt">double</span> <span class="n">LogFak</span><span class="p">;</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-12"></a>       <span class="kt">double</span> <span class="n">DmL</span><span class="p">;</span>
+<a name="rest_code_e6984fe8d5c34507bff4f9b832f5f87c-13"></a> <span class="p">}</span> <span class="n">EBENEN_PAR</span><span class="p">;</span>
 </pre>
 </div>
 <div class="section" id="beispiele">
@@ -141,7 +141,7 @@
         <footer id="footer"><div class="text-center">
 <div class="siegel"><table></table></div>
 </div>
-<p><a href="../impressum/" rel="nofollow">Impressum</a> - Contents © 2018         <a href="mailto:fritz.heinrichmeyer@gmail.com">Fritz Heinrichmeyer</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola </a>          
+<p><a href="../impressum/" rel="nofollow">Impressum</a>, <a href="../datenschutzerklaerung-fritz/" rel="nofollow">Datenschutzerklärung</a>- Contents © 2018         <a href="mailto:fritz.heinrichmeyer@gmail.com">Fritz Heinrichmeyer</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola </a>          
 </p>
             
         </footer>

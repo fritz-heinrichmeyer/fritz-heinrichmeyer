@@ -7,15 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-20T08:26:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/2018/</loc>
+  <lastmod>2018-03-17T10:39:00Z</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-05-19T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>/blog/</loc>
@@ -27,23 +31,23 @@
  </url>
  <url>
   <loc>/categories/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/applets/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/java/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/rst/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/galleries/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/index.htm</loc>
@@ -51,47 +55,51 @@
  </url>
  <url>
   <loc>/listings/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/Doktorarbeit/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/pages/datenschutzerklaerung-fritz/</loc>
+  <lastmod>2018-05-19T13:14:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/diskrete_faltung/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-05-19T13:14:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/impressum/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/java_drei_d_funktionsplotter/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/java_zwei_d_funktionsplotter/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/lehre/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/privates/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/programmierung/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/sonstiges/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/systementwurf_mit_der_maus/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-05-19T13:14:00Z</lastmod>
  </url>
  <url>
   <loc>/post/</loc>
@@ -103,30 +111,30 @@
  </url>
  <url>
   <loc>/posts/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/antinputtask/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/java-applets/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/rsttablesexperimente/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/shortcodeexperimenten/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/sperber/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/textile-experimente/</loc>
-  <lastmod>2018-03-11T16:23:00Z</lastmod>
+  <lastmod>2018-03-12T14:11:00Z</lastmod>
  </url>
 </urlset>
