@@ -6,43 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>/categories/applets.atom</loc>
-  <lastmod>2017-09-22T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>/categories/applets.xml</loc>
-  <lastmod>2017-10-01T18:16:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>/categories/java.atom</loc>
-  <lastmod>2017-09-22T16:14:00Z</lastmod>
+  <lastmod>2018-04-23T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/java.xml</loc>
-  <lastmod>2017-10-01T18:16:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>/categories/rst.atom</loc>
-  <lastmod>2017-09-22T16:14:00Z</lastmod>
+  <lastmod>2018-04-23T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/rst.xml</loc>
-  <lastmod>2017-09-20T06:34:00Z</lastmod>
+  <lastmod>2018-04-23T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/galleries/rss.xml</loc>
-  <lastmod>2017-09-22T16:32:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>/posts/index.atom</loc>
-  <lastmod>2017-09-22T16:14:00Z</lastmod>
+  <lastmod>2018-05-21T09:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/rss.xml</loc>
-  <lastmod>2017-10-01T18:16:00Z</lastmod>
+  <lastmod>2018-04-23T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/sitemap.xml</loc>
-  <lastmod>2017-11-29T07:26:00Z</lastmod>
+  <lastmod>2018-05-21T09:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>
