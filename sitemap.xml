@@ -6,20 +6,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
   <loc>/2017/</loc>
   <lastmod>2018-04-23T13:00:00Z</lastmod>
  </url>
  <url>
   <loc>/2018/</loc>
   <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/archive.html</loc>
-  <lastmod>2018-05-21T09:53:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/</loc>
@@ -71,10 +63,6 @@
  </url>
  <url>
   <loc>/pages/lehre/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/privates/</loc>
   <lastmod>2018-04-23T13:00:00Z</lastmod>
  </url>
  <url>
