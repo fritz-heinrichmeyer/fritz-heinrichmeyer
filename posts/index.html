@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="de">
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="de">
 <head>
 <meta charset="utf-8">
 <meta name="description" content="This is a demo site for Nikola.">
@@ -17,53 +18,44 @@
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
+<nav class="navbar navbar-expand-md static-top mb-4 bg-primary
+navbar-dark 
+"><div class="container">
 <!-- This keeps the margins nice -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Navigation umschalten</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="../">
+        <a class="navbar-brand" href="../">
 
-                <span id="blog-title">Fritz Heinrichmeyer</span>
-            </a>
-        </div>
-<!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
-            <ul class="nav navbar-nav">
-<li>
-<a href="../archive.html">Archiv</a>
+            <span id="blog-title">Fritz Heinrichmeyer</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="bs-navbar">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a href="../archive.html" class="nav-link">Archiv</a>
                 </li>
-<li>
-<a href="../galleries/">Galleries</a>
+<li class="nav-item">
+<a href="../galleries/" class="nav-link">Galleries</a>
                 </li>
-<li>
-<a href="../categories/">Tags</a>
+<li class="nav-item">
+<a href="../categories/" class="nav-link">Tags</a>
             </li>
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Beruf <b class="caret"></b></a>
-            <ul class="dropdown-menu">
-<li>
-<a href="../pages/lehre/index.html">Lehre</a>
-                    </li>
-<li>
-<a href="../pages/programmierung/index.html">Programmierung</a>
-                    </li>
-<li>
-<a href="../pages/Doktorarbeit/index.html">Doktorarbeit</a>
-            </li>
-</ul>
-</li>
-<li>
-<a href="../pages/privates/index.html">Privates</a>
+<li class="nav-item dropdown">
+<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Beruf</a>
+            <div class="dropdown-menu">
+                    <a href="../pages/lehre/" class="dropdown-item">Lehre</a>
+                    <a href="../pages/programmierung/" class="dropdown-item">Programmierung</a>
+                    <a href="../pages/Doktorarbeit/" class="dropdown-item">Doktorarbeit</a>
+            </div>
+                </li>
+<li class="nav-item">
+<a href="../pages/privates/" class="nav-link">Privates</a>
 
                 
             </li>
 </ul>
-<ul class="nav navbar-nav navbar-right"></ul>
+<ul class="navbar-nav navbar-right"></ul>
 </div>
 <!-- /.navbar-collapse -->
     </div>
@@ -71,21 +63,23 @@
 </nav><!-- End of Menubar --><div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
-        <div class="row">
-            
-            
+        
+        
 
     
 
 
     
 <div class="postindex">
-    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="java-applets/" class="u-url">Java-Applets</a></h1>
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="java-applets/" class="u-url">Java-Applets</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Fritz Heinrichmeyer
             </span></p>
-            <p class="dateline"><a href="java-applets/" rel="bookmark"><time class="published dt-published" datetime="2018-03-16T08:10:45+02:00" title="2018-03-16 08:10">2018-03-16 08:10</time></a></p>
+            <p class="dateline">
+            <a href="java-applets/" rel="bookmark">
+            <time class="published dt-published" datetime="2018-03-16T08:10:45+02:00" itemprop="datePublished" title="2018-03-16 08:10">2018-03-16 08:10</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
     <div>
@@ -122,12 +116,15 @@ Deswegen gibt es noch ein zweite Link auf die Webseite <em>fritz-heinrichmeyer.g
 </div>
 </div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="shortcodeexperimenten/" class="u-url">shortcode Experimente</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="shortcodeexperimenten/" class="u-url">shortcode Experimente</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Fritz Heinrichmeyer
             </span></p>
-            <p class="dateline"><a href="shortcodeexperimenten/" rel="bookmark"><time class="published dt-published" datetime="2017-04-04T10:15:47+02:00" title="2017-04-04 10:15">2017-04-04 10:15</time></a></p>
+            <p class="dateline">
+            <a href="shortcodeexperimenten/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-04-04T10:15:47+02:00" itemprop="datePublished" title="2017-04-04 10:15">2017-04-04 10:15</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
     <div>
@@ -198,12 +195,15 @@ Deswegen gibt es noch ein zweite Link auf die Webseite <em>fritz-heinrichmeyer.g
 </div>
 </div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="sperber/" class="u-url">Sperber</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="sperber/" class="u-url">Sperber</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Fritz Heinrichmeyer
             </span></p>
-            <p class="dateline"><a href="sperber/" rel="bookmark"><time class="published dt-published" datetime="2017-03-21T11:47:58+01:00" title="2017-03-21 11:47">2017-03-21 11:47</time></a></p>
+            <p class="dateline">
+            <a href="sperber/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-03-21T11:47:58+01:00" itemprop="datePublished" title="2017-03-21 11:47">2017-03-21 11:47</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
     <div>
@@ -213,12 +213,15 @@ Deswegen gibt es noch ein zweite Link auf die Webseite <em>fritz-heinrichmeyer.g
 </div>
 </div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="textile-experimente/" class="u-url">textile Experimente</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="textile-experimente/" class="u-url">textile Experimente</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Fritz Heinrichmeyer
             </span></p>
-            <p class="dateline"><a href="textile-experimente/" rel="bookmark"><time class="published dt-published" datetime="2017-01-30T09:41:28+01:00" title="2017-01-30 09:41">2017-01-30 09:41</time></a></p>
+            <p class="dateline">
+            <a href="textile-experimente/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-01-30T09:41:28+01:00" itemprop="datePublished" title="2017-01-30 09:41">2017-01-30 09:41</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
     <div>
@@ -278,12 +281,15 @@ Feedback.</p>
   <img src="../luise.jpg" class="img-circle" alt="Ein schönes Bild" title="Ein schönes Bild">
 </div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="rsttablesexperimente/" class="u-url">RSTtables Experimente</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="rsttablesexperimente/" class="u-url">RSTtables Experimente</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Fritz Heinrichmeyer
             </span></p>
-            <p class="dateline"><a href="rsttablesexperimente/" rel="bookmark"><time class="published dt-published" datetime="2017-01-21T10:01:54+01:00" title="2017-01-21 10:01">2017-01-21 10:01</time></a></p>
+            <p class="dateline">
+            <a href="rsttablesexperimente/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-01-21T10:01:54+01:00" itemprop="datePublished" title="2017-01-21 10:01">2017-01-21 10:01</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
     <div>
@@ -378,12 +384,15 @@ Ende div class=row</blockquote>
 <img alt="ein schönes Bild" class="img-circle align-center" src="../luise.jpg">
 </div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="antinputtask/" class="u-url">AntInputTask</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="antinputtask/" class="u-url">AntInputTask</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Fritz Heinrichmeyer
             </span></p>
-            <p class="dateline"><a href="antinputtask/" rel="bookmark"><time class="published dt-published" datetime="2017-01-05T11:37:51+01:00" title="2017-01-05 11:37">2017-01-05 11:37</time></a></p>
+            <p class="dateline">
+            <a href="antinputtask/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-01-05T11:37:51+01:00" itemprop="datePublished" title="2017-01-05 11:37">2017-01-05 11:37</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
     <div>
@@ -416,23 +425,27 @@ Ende div class=row</blockquote>
 
 
 
-        </div>
         <!--End of body content-->
 
         <footer id="footer"><div class="text-center">
-<div class="siegel"><table></table></div>
-</div>
-<p><a href="../pages/impressum/" rel="nofollow">Impressum</a>, <a href="../pages/datenschutzerklaerung-fritz/" rel="nofollow">Datenschutzerklärung</a>- Contents © 2018         <a href="mailto:fritz.heinrichmeyer@gmail.com">Fritz Heinrichmeyer</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola </a>          
-</p>
+<p><a href="../pages/impressum/" rel="nofollow">Impressum</a>, <a href="../pages/datenschutzerklaerung-fritz/" rel="nofollow">Datenschutzerklärung</a>- Contents © 2019         <a href="mailto:fritz.heinrichmeyer@gmail.com">Fritz Heinrichmeyer</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola </a>  </p>
+</div>        
+  
             
         </footer>
 </div>
 </div>
 
 
-            <script src="../assets/js/all-nocdn.js"></script><script src="../assets/js/colorbox-i18n/jquery.colorbox-de.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+        <script src="../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
     moment.locale("de");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+    </script><!-- end fancy dates --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
 </body>
 </html>
