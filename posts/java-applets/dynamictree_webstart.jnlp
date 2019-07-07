@@ -34,12 +34,12 @@
 <!-- codebase="codebase="http://127.0.0.1:8000/posts/java-applets/" -->
 <!--codebase="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/diskrete_faltung/"" -->
 <jnlp spec="1.0+" 
-      codebase="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/java-applets/"
-      href="dynamictree_webstart.jnlp"
+      codebase="https://www.fritz-heinrichmeyer.de/posts/java-applets/"
+      
         >
     <information>
-      <title>DisFaltung</title>
-      <homepage href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/posts/java-applets/"/>
+      <title>Dynamic Tree Demo</title>
+      <homepage href="https://www.fritz-heinrichmeyer.de/posts/java-applets/dynamictree_webstart.jnlp"/>
         <vendor>Dynamic Team</vendor>
     </information>
     <resources>
@@ -50,9 +50,7 @@
 
     </resources>
     
-   <security>
-      <all-permissions/>
-  </security> 
+    
     <applet-desc main-class="DisFaltung" name="DisFaltung" width="520" height="380">
 
     </applet-desc >
