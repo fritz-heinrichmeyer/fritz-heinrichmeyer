@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>/</loc>
+  <lastmod>2020-01-17T13:25:00Z</lastmod>
+ </url>
+ <url>
   <loc>/2017/</loc>
   <lastmod>2018-04-23T13:00:00Z</lastmod>
  </url>
@@ -14,12 +18,32 @@
   <lastmod>2018-04-23T13:00:00Z</lastmod>
  </url>
  <url>
+  <loc>/2019/</loc>
+  <lastmod>2019-03-04T08:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/2020/</loc>
+  <lastmod>2020-01-17T13:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/archive.html</loc>
+  <lastmod>2020-01-17T13:25:00Z</lastmod>
+ </url>
+ <url>
   <loc>/categories/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-01-17T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/applets/</loc>
   <lastmod>2018-04-23T13:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/cat_posts/</loc>
+  <lastmod>2018-11-06T13:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/hemer/</loc>
+  <lastmod>2020-01-17T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/java/</loc>
@@ -30,8 +54,12 @@
   <lastmod>2018-04-23T13:00:00Z</lastmod>
  </url>
  <url>
+  <loc>/categories/zwar/</loc>
+  <lastmod>2020-01-17T13:25:00Z</lastmod>
+ </url>
+ <url>
   <loc>/galleries/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2019-07-07T06:08:00Z</lastmod>
  </url>
  <url>
   <loc>/listings/</loc>
@@ -48,6 +76,10 @@
  <url>
   <loc>/pages/diskrete_faltung/</loc>
   <lastmod>2018-04-23T13:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/pages/familie/</loc>
+  <lastmod>2020-01-01T14:38:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/impressum/</loc>
@@ -82,8 +114,12 @@
   <lastmod>2018-04-23T13:00:00Z</lastmod>
  </url>
  <url>
+  <loc>/pages/zwar/</loc>
+  <lastmod>2020-01-01T12:30:00Z</lastmod>
+ </url>
+ <url>
   <loc>/posts/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-01-17T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/antinputtask/</loc>
@@ -91,7 +127,7 @@
  </url>
  <url>
   <loc>/posts/java-applets/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2019-05-26T13:00:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/rsttablesexperimente/</loc>
@@ -108,5 +144,9 @@
  <url>
   <loc>/posts/textile-experimente/</loc>
   <lastmod>2018-04-23T13:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/zwar-april/</loc>
+  <lastmod>2020-01-17T13:25:00Z</lastmod>
  </url>
 </urlset>
