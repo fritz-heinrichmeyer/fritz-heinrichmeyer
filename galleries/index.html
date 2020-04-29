@@ -115,7 +115,7 @@ navbar-dark
 var jsonContent = [{"height": 180, "size": {"h": 180, "w": 135}, "title": "Haus  hemer 2019", "url": "Haus _Hemer_2019.jpg", "url_thumb": "Haus _Hemer_2019.thumbnail.jpg", "width": 135}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Lanzarote 2013", "url": "Lanzarote_2013.JPG", "url_thumb": "Lanzarote_2013.thumbnail.JPG", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
