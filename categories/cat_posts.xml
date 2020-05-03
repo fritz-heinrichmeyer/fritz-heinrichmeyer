@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer (Einträge über posts)</title><link>/</link><description></description><atom:link href="/categories/cat_posts.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Wed, 29 Apr 2020 10:35:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ZWAR-April</title><link>/posts/zwar-april/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Seiten sind ein Auszug vom &lt;a class="reference external" href="http://www.zwar-hemer.de/aktuelles.htm"&gt;ZWAR Hemer&lt;/a&gt; (Alles, was mir besonders
-wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
-&lt;a class="reference external" href="https://www.zwar.org/de/zwar-netzwerke/"&gt;zwar netzwerke&lt;/a&gt;&lt;/p&gt;
-&lt;dl class="text-warning simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Nachrichten zu Pandemie :&lt;/strong&gt; Veranstaltungen, die wegen Corona ausfallen:&lt;/dt&gt;
-&lt;dd&gt;&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Basis-Treffen am 26.03.2020&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Repair Café am 04.04.2020&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;p&gt;&lt;strong&gt;neu:&lt;/strong&gt; Ab April findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.&lt;/p&gt;
-&lt;p class="text-warning"&gt;Die Stadt hat bis zum 19.04.2020 das Jugend Zentrum ( JUK: Parkstraße 3, 58675 Hemer ) geschlossen.&lt;/p&gt;
-&lt;p&gt;siehe auch &lt;a class="reference external" href="/pages/zwar/"&gt;ZWAR Gruppe Hemer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Hemer</category><category>ZWAR</category><guid>/posts/zwar-april/</guid><pubDate>Mon, 16 Mar 2020 13:17:34 GMT</pubDate></item><item><title>Java-Applets</title><link>/posts/java-applets/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Hier finden Sie Java-Applets zu den Fachgebieten Elektronische Schaltungen und Digitale Signalverarbeitung.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer (Einträge über posts)</title><link>/</link><description></description><atom:link href="/categories/cat_posts.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Sun, 03 May 2020 08:39:32 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Java-Applets</title><link>/posts/java-applets/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Hier finden Sie Java-Applets zu den Fachgebieten Elektronische Schaltungen und Digitale Signalverarbeitung.&lt;/p&gt;
 &lt;p&gt;Ab Chrome-Version 45 Java-Applets funktionieren nicht mehr!&lt;/p&gt;
 &lt;p&gt;Ab Firefox-Version 52 (im März 2017 freigegeben) funktionieren Java-Applets nicht mehr!. Schade.
-Sie müssen "appletviewer &amp;lt;url&amp;gt;" verwenden (in jdk(Java Java Development Kit)-131 enthalten) &lt;a class="reference external" href="http://www.oracle.com/technetwork/java/javase/downloads/index.html"&gt;Java SE 8 Update 131&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AppletViewer&lt;/strong&gt; gilt als überholt und erfordert, dass man das Java Entwicklung Kit installiert ist.&lt;/p&gt;
+Sie müssen "appletviewer &amp;lt;url&amp;gt;" verwenden (in jdk(Java Java Development Kit)-131 enthalten).&lt;/p&gt;
+&lt;p&gt;Leider kann man diese Version (Java Development Kit SE 8)von nicht mehr vom &lt;a class="reference external" href="http://www.oracle.com/"&gt;http://www.oracle.com/&lt;/a&gt;
+herunterladen. Ich empfehle  für Windows&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html"&gt;Amazon Corretto 8&lt;/a&gt;&lt;/p&gt;
+&lt;p class="text-warning"&gt;Bei dem neuesten Java Entwicklung Kit (Java-11 Java Development Kit) ist der &lt;strong&gt;AppletViewer&lt;/strong&gt;  &lt;strong&gt;nicht&lt;/strong&gt; dabei.&lt;/p&gt;
 &lt;p&gt;Java Web Applikations  erfordert nur das Java JRE.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Alle&lt;/strong&gt; Java-Bereitstellungstechnologien sind veraltet, einschließlich Java WebStart / JNLP !!&lt;/p&gt;
+&lt;p class="text-warning"&gt;&lt;strong&gt;Alle&lt;/strong&gt; Java-Bereitstellungstechnologien sind veraltet, einschließlich Java WebStart / JNLP !!&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwiax-KoxurgAhXML1AKHeUiCDAQFjAAegQIBxAB&amp;amp;url=https%3A%2F%2Fdocs.oracle.com%2Fjavase%2F9%2Ftools%2Fjlink.htm&amp;amp;usg=AOvVaw0V3qMcC0mvnZUC_CILvE6V"&gt;jlink&lt;/a&gt; : Mit dem Tool &lt;em&gt;jlink&lt;/em&gt;  können Sie eine Gruppe von Modulen und ihre Abhängigkeiten zu einem benutzerdefinierten Laufzeitabbild zusammenstellen und optimieren.&lt;/p&gt;
 &lt;dl class="text-warning simple"&gt;
 &lt;dt&gt;(funktioniert nicht mit meinen Zertifikat!) wegen  Das Programm „javaws &amp;lt;name&amp;gt;.jnlp“  startet  die Java-Web-Anwendung&lt;/dt&gt;
@@ -35,24 +25,37 @@ Deswegen gibt es noch ein zweite Link auf die Webseite &lt;em&gt;fritz-heinrichm
 &lt;/div&gt;
 &lt;div class="section" id="diskrete-faltung"&gt;
 &lt;h2&gt;Diskrete Faltung&lt;/h2&gt;
-&lt;p class="text-warning"&gt;Diskrete Faltung1 &lt;a class="reference external" href="/pages/diskrete_faltung/index.html"&gt;Diskrete Faltung1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/diskrete_faltung/index.html"&gt;Diskrete Faltung2&lt;/a&gt;&lt;/p&gt;
+&lt;p class="text-warning"&gt;Diskrete Faltung1 &lt;a class="reference external" href="/diskrete_faltung/index.html"&gt;Diskrete Faltung1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/diskrete_faltung/index.html"&gt;Diskrete Faltung2&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="systementwurf-mit-der-maus"&gt;
 &lt;h2&gt;Systementwurf mit der Maus&lt;/h2&gt;
-&lt;p class="text-warning"&gt;Systementwurf mit der Maus1 &lt;a class="reference external" href="/pages/systementwurf_mit_der_maus/index.html"&gt;Systementwurf mit der Maus1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/systementwurf_mit_der_maus/index.html"&gt;Systementwurf mit der Maus2&lt;/a&gt;&lt;/p&gt;
+&lt;p class="text-warning"&gt;Systementwurf mit der Maus1 &lt;a class="reference external" href="/systementwurf_mit_der_maus/index.html"&gt;Systementwurf mit der Maus1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/systementwurf_mit_der_maus/index.html"&gt;Systementwurf mit der Maus2&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="java-2d-funktionsplotter"&gt;
 &lt;h2&gt;Java 2D Funktionsplotter&lt;/h2&gt;
-&lt;p class="text-warning"&gt;Java 2D Funktionsplotter1 &lt;a class="reference external" href="/pages/java_zwei_d_funktionsplotter/index.html"&gt;Java 2D Funktionsplotter1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/java_zwei_d_funktionsplotter/index.html"&gt;Java 2D Funktionsplotter2&lt;/a&gt;&lt;/p&gt;
+&lt;p class="text-warning"&gt;Java 2D Funktionsplotter1 &lt;a class="reference external" href="/java_zwei_d_funktionsplotter/index.html"&gt;Java 2D Funktionsplotter1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/java_zwei_d_funktionsplotter/index.html"&gt;Java 2D Funktionsplotter2&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="java-3d-funktionsplotter"&gt;
 &lt;h2&gt;Java 3D Funktionsplotter&lt;/h2&gt;
-&lt;p class="text-warning"&gt;Java 3D Funktionsplotter1 &lt;a class="reference external" href="/pages/java_drei_d_funktionsplotter/index.html"&gt;Java 3D Funktionsplotter1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/java_drei_d_funktionsplotter/index.html"&gt;Java 3D Funktionsplotter2&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>applets</category><category>Java</category><guid>/posts/java-applets/</guid><pubDate>Fri, 24 May 2019 06:10:45 GMT</pubDate></item><item><title>shortcode Experimente</title><link>/posts/shortcodeexperimenten/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode"&gt;
+&lt;p class="text-warning"&gt;Java 3D Funktionsplotter1 &lt;a class="reference external" href="/java_drei_d_funktionsplotter/index.html"&gt;Java 3D Funktionsplotter1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/java_drei_d_funktionsplotter/index.html"&gt;Java 3D Funktionsplotter2&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>applets</category><category>Java</category><guid>/posts/java-applets/</guid><pubDate>Fri, 01 May 2020 06:10:45 GMT</pubDate></item><item><title>ZWAR-April</title><link>/posts/zwar-april/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Seiten sind ein Auszug vom &lt;a class="reference external" href="http://www.zwar-hemer.de/aktuelles.htm"&gt;ZWAR Hemer&lt;/a&gt; (Alles, was mir besonders
+wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
+&lt;a class="reference external" href="https://www.zwar.org/de/zwar-netzwerke/"&gt;zwar netzwerke&lt;/a&gt;&lt;/p&gt;
+&lt;dl class="text-warning simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Nachrichten zu Pandemie :&lt;/strong&gt; Veranstaltungen, die wegen Corona ausfallen:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;Basis-Treffen am 26.03.2020&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Repair Café am 04.04.2020&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;strong&gt;neu:&lt;/strong&gt; Ab April findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.&lt;/p&gt;
+&lt;p class="text-warning"&gt;Die Stadt hat bis zum 19.04.2020 das Jugend Zentrum ( JUK: Parkstraße 3, 58675 Hemer ) geschlossen.&lt;/p&gt;
+&lt;p&gt;siehe auch &lt;a class="reference external" href="/zwar/"&gt;ZWAR Gruppe Hemer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Hemer</category><category>ZWAR</category><guid>/posts/zwar-april/</guid><pubDate>Mon, 16 Mar 2020 13:17:34 GMT</pubDate></item><item><title>shortcode Experimente</title><link>/posts/shortcodeexperimenten/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;div class="section" id="experimenten-mit-makotemplates-in-python-und-a-shortcode"&gt;
 &lt;h2&gt;Experimenten mit Makotemplates in Python und a shortcode&lt;/h2&gt;
 &lt;!--  --&gt;
 &lt;p&gt;
@@ -139,66 +142,7 @@ Deswegen gibt es noch ein zweite Link auf die Webseite &lt;em&gt;fritz-heinrichm
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</description><guid>/posts/shortcodeexperimenten/</guid><pubDate>Tue, 04 Apr 2017 08:15:47 GMT</pubDate></item><item><title>Sperber</title><link>/posts/sperber/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;img alt="Ist er nicht süß?" class="align-center" src="/Sperber.jpg"&gt;
 &lt;p&gt;Ein Sperber-Besuch in Hemer:&lt;/p&gt;
-&lt;p&gt;Ist er nicht süß?&lt;/p&gt;&lt;/div&gt;</description><category>Hemer</category><guid>/posts/sperber/</guid><pubDate>Tue, 21 Mar 2017 10:47:58 GMT</pubDate></item><item><title>textile Experimente</title><link>/posts/textile-experimente/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;I searched &lt;a href="http://redcloth.org/hobix.com/textile"&gt;textile&lt;/a&gt;.&lt;/p&gt;
-
-	&lt;p&gt;&lt;a href="http://en.wikipedia.org/"&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-
-	&lt;table&gt;
-		&lt;tr&gt;
-			&lt;th&gt;First Header &lt;/th&gt;
-			&lt;th&gt;Second Header &lt;/th&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt; Einzelsupervision: &lt;/td&gt;
-			&lt;td&gt; Supervision von Einzelperson &lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/table&gt;
-
-	&lt;table&gt;
-		&lt;tr&gt;
-			&lt;td&gt; Gruppensupervision: &lt;/td&gt;
-			&lt;td&gt; Mehrere Personen aus unterschiedlichen Institutionen und/oder Arbeitsbereichen treffen sich im Rahmen einer Supervisionsgruppe mit einem Supervisor &lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/table&gt;
-
-	&lt;table&gt;
-		&lt;tr&gt;
-			&lt;td&gt; Teamsupervision: &lt;/td&gt;
-			&lt;td&gt; Ein bestehendes Arbeitsteam trifft sich, um Fragen der Zusammenarbeit aber auch einzelner Teilnehmer zu reflektieren &lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt; Führungssupervision: &lt;/td&gt;
-			&lt;td&gt; Führungsverhalten wird thematisiert &lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/table&gt;
-
-
-	&lt;p&gt;&lt;strong&gt;Unsere Werte und Ziele&lt;/strong&gt;&lt;/p&gt;
-
-	&lt;p&gt;Als Trainer sehen wir unsere Aufgabe darin, für unsere Teilnehmer ein&lt;br&gt;
-angenehmes Klima zu schaffen, in dem Lernen zum Vergnügen und Abenteuer&lt;br&gt;
-wird. Erkenntnisse vermitteln wir in spielerischer Form mit Hilfe vieler&lt;br&gt;
-Übungen. Neue Verhaltensstrategien werden praktisch erprobt und die&lt;br&gt;
-Wahrnehmung für zwischenmenschliche Prozesse wird geschärft.&lt;/p&gt;
-
-	&lt;p&gt;Wir unterstützen unsere Teilnehmer darin, ihre eigenen Stärken und&lt;br&gt;
-Fähigkeiten zu nutzen und Ihre Schwächen als Chance zur Verbesserung zu&lt;br&gt;
-erkennen, um sich selbst besser gerecht zu werden und sich&lt;br&gt;
-weiterzuentwickeln.&lt;/p&gt;
-
-	&lt;p&gt;Unsere Teilnehmer sollen erleben, wie sehr ihr Erfolg in der&lt;br&gt;
-Kommunikation mit anderen Menschen von ihrer eigenen Werthaltung und&lt;br&gt;
-Einstellung ihren Gesprächspartnern gegenüber getragen wird.  Sie sollen&lt;br&gt;
-erlernen, wie man wirkliches Interesse an den Bedürfnissen anderer&lt;br&gt;
-Menschen entwickelt, ohne dass die eigenen Bedürfnisse dabei auf der&lt;br&gt;
-Strecke bleiben.&lt;/p&gt;
-
-	&lt;p&gt;Wir sehen unsere Teilnehmer als gleichwertige Partner an, freuen uns&lt;br&gt;
-auf die Bereicherungen durch sie und wünschen uns von ihnen ehrliches&lt;br&gt;
-Feedback.&lt;/p&gt;
-
-
-  &lt;img src="/luise.jpg" class="img-circle" alt="Ein schönes Bild" title="Ein schönes Bild"&gt;&lt;/div&gt;</description><guid>/posts/textile-experimente/</guid><pubDate>Mon, 30 Jan 2017 08:41:28 GMT</pubDate></item><item><title>RSTtables Experimente</title><link>/posts/rsttablesexperimente/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;p&gt;Ist er nicht süß?&lt;/p&gt;&lt;/div&gt;</description><category>Hemer</category><guid>/posts/sperber/</guid><pubDate>Tue, 21 Mar 2017 10:47:58 GMT</pubDate></item><item><title>RSTtables Experimente</title><link>/posts/rsttablesexperimente/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://docutils.sourceforge.net/docs/ref/rst/directives.html#class"&gt;(Quellen RST Für Fortgeschrittene )&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://getnikola.com/quickstart.html"&gt;A reStructuredText Primer&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -282,7 +226,7 @@ Ende div class=row&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;blocks&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ein schönes Bild:&lt;/strong&gt;&lt;/p&gt;
-&lt;img alt="ein schönes Bild" class="img-circle align-center" src="/luise.jpg"&gt;&lt;/div&gt;</description><category>Java</category><category>RST</category><guid>/posts/rsttablesexperimente/</guid><pubDate>Sat, 21 Jan 2017 09:01:54 GMT</pubDate></item><item><title>AntInputTask</title><link>/posts/antinputtask/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
+&lt;img alt="ein schönes Bild" class="rounded-circle align-center" src="/luise.jpg"&gt;&lt;/div&gt;</description><category>Java</category><category>RST</category><guid>/posts/rsttablesexperimente/</guid><pubDate>Sat, 21 Jan 2017 09:01:54 GMT</pubDate></item><item><title>AntInputTask</title><link>/posts/antinputtask/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://ant.apache.org/manual/Tasks/input.html"&gt;(Quelle)&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;dl&gt;

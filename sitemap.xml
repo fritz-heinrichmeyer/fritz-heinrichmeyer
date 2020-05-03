@@ -7,146 +7,150 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2020-04-18T10:38:00Z</lastmod>
+  <lastmod>2020-05-01T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/2018/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/2019/</loc>
-  <lastmod>2019-03-04T08:40:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/2020/</loc>
-  <lastmod>2020-01-17T13:25:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/Doktorarbeit/</loc>
+  <lastmod>2020-05-01T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2020-04-29T10:35:00Z</lastmod>
+  <lastmod>2020-05-03T08:15:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/</loc>
-  <lastmod>2020-01-17T13:25:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/applets/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/cat_posts/</loc>
-  <lastmod>2018-11-06T13:07:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/hemer/</loc>
-  <lastmod>2020-01-17T13:25:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/java/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/rst/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/zwar/</loc>
-  <lastmod>2020-01-17T13:25:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/datenschutzerklaerung-fritz/</loc>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/diskrete_faltung/</loc>
+  <lastmod>2020-05-01T09:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/familie/</loc>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/galleries/</loc>
-  <lastmod>2019-07-07T06:08:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/impressum/</loc>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/java_drei_d_funktionsplotter/</loc>
+  <lastmod>2020-05-01T09:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/java_zwei_d_funktionsplotter/</loc>
+  <lastmod>2020-05-01T09:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/lehre/</loc>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/listings/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/Doktorarbeit/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/datenschutzerklaerung-fritz/</loc>
-  <lastmod>2018-05-21T09:53:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/diskrete_faltung/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/familie/</loc>
-  <lastmod>2020-01-01T14:38:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/impressum/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/java_drei_d_funktionsplotter/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/java_zwei_d_funktionsplotter/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/lehre/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/privates/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/programmierung/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/sonstiges/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/pages/systementwurf_mit_der_maus/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/pages/zwar/</loc>
-  <lastmod>2020-02-01T07:59:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/</loc>
-  <lastmod>2020-01-17T13:25:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/antinputtask/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/java-applets/</loc>
-  <lastmod>2019-05-26T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/rsttablesexperimente/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/shortcodeexperimenten/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/sperber/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
- </url>
- <url>
-  <loc>/posts/textile-experimente/</loc>
-  <lastmod>2018-04-23T13:00:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/zwar-april/</loc>
-  <lastmod>2020-01-17T13:25:00Z</lastmod>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/programmierung/</loc>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/sonstiges/</loc>
+  <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/systementwurf_mit_der_maus/</loc>
+  <lastmod>2020-05-01T09:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/zwar/</loc>
+  <lastmod>2020-05-01T09:19:00Z</lastmod>
  </url>
 </urlset>
