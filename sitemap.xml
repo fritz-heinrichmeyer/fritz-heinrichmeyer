@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2020-05-01T09:19:00Z</lastmod>
+  <lastmod>2020-05-05T07:00:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
@@ -63,7 +63,7 @@
  </url>
  <url>
   <loc>/diskrete_faltung/</loc>
-  <lastmod>2020-05-01T09:19:00Z</lastmod>
+  <lastmod>2020-05-04T11:12:00Z</lastmod>
  </url>
  <url>
   <loc>/familie/</loc>
@@ -78,12 +78,20 @@
   <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
+  <loc>/index1/</loc>
+  <lastmod>2020-05-06T06:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/indexe/</loc>
+  <lastmod>2020-05-05T06:44:00Z</lastmod>
+ </url>
+ <url>
   <loc>/java_drei_d_funktionsplotter/</loc>
-  <lastmod>2020-05-01T09:19:00Z</lastmod>
+  <lastmod>2020-05-04T11:35:00Z</lastmod>
  </url>
  <url>
   <loc>/java_zwei_d_funktionsplotter/</loc>
-  <lastmod>2020-05-01T09:19:00Z</lastmod>
+  <lastmod>2020-05-04T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>/lehre/</loc>
@@ -147,7 +155,7 @@
  </url>
  <url>
   <loc>/systementwurf_mit_der_maus/</loc>
-  <lastmod>2020-05-01T09:19:00Z</lastmod>
+  <lastmod>2020-05-04T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>/zwar/</loc>
