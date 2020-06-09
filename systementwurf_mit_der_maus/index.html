@@ -10,8 +10,20 @@
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
 <link rel="canonical" href=".">
-<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><link rel="icon" href="../favicon.ico" type="image/x-icon">
-<meta name="author" content="Fritz Heinrichmeyer">
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+    },
+    displayAlign: 'center', // Change this to 'left' if you want left-aligned equations.
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}}
+    }
+});
+</script><!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><link rel="icon" href="../favicon.ico" type="image/x-icon">
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script><meta name="author" content="Fritz Heinrichmeyer">
 <meta property="og:site_name" content="Fritz Heinrichmeyer">
 <meta property="og:title" content="systementwurf_mit_der_maus">
 <meta property="og:url" content="/systementwurf_mit_der_maus/">
@@ -96,8 +108,18 @@ navbar-dark
 <center> <applet code="PolZero.class" codebase="." archive="PolZero.jar" width="520" height="460"></applet>
  </center>
 <p>Die Systemfunktion lässt sich in dieser Form</p>
-<img alt="smdm1.gif" class="align-center" src="smdm1.gif"><p>darstellen.<img alt="" src="smdm2.gif">und<img alt="" src="smdm3.gif">können reell oder komplex sein.</p>
-<p>darstellen.Sie können reell oder komplex sein.</p>
+<div class="math">
+\begin{equation*}
+H(s) = A  \dfrac{\displaystyle \prod_{m=1} ^{m=M}(s -s_{0_m})}{\displaystyle \prod_{n=1} ^{n=N}(s -s_{\infty_n})}
+\end{equation*}
+</div>
+<!-- image: smdm1.gif -->
+<!-- :align: center -->
+<!-- raw: html -->
+<p>darstellen.</p>
+<p><span class="math">\(s_{\infty_n}\)</span>
+und <span class="math">\(s_{0_n}\)</span>
+können reell oder komplex sein.</p>
 <p>Ein Wertpaar(x, y) im Applet bedeutet zwei Pole/Nullstellen und zwar: (x + j y <em>,</em> x - j y)</p>
 <p><strong>Interaktivitäten:</strong></p>
 <ul class="simple">

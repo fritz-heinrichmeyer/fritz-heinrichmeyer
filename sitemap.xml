@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2020-05-12T06:38:00Z</lastmod>
+  <lastmod>2020-05-31T14:00:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2020-05-03T08:15:00Z</lastmod>
+  <lastmod>2020-06-01T06:06:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/</loc>
@@ -63,7 +63,11 @@
  </url>
  <url>
   <loc>/diskrete_faltung/</loc>
-  <lastmod>2020-05-04T11:12:00Z</lastmod>
+  <lastmod>2020-05-27T06:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/diskrete_faltung1/</loc>
+  <lastmod>2020-05-31T14:12:00Z</lastmod>
  </url>
  <url>
   <loc>/familie/</loc>
