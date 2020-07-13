@@ -17,15 +17,12 @@ wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
 .. class:: text-warning
 
 **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
-   -  Basis-Treffen am 26.03.2020
-   -  Repair Café am 04.04.2020
-
-**neu:** Ab April findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
-
-.. class:: text-warning
 
 
-Die Stadt hat bis zum 19.04.2020 das Jugend Zentrum ( JUK: Parkstraße 3, 58675 Hemer ) geschlossen.
+Ab Juli findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
+
+
+
 
 
 siehe auch `ZWAR Gruppe Hemer </zwar/>`_
