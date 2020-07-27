@@ -1,6 +1,6 @@
 .. title: Java-Applets
 .. slug: java-applets
-.. date: 2020-05-01 08:10:45 UTC+02:00
+.. date: 2020-07-26 08:10:45 UTC+02:00
 .. tags: Java, applets
 .. category: 
 .. link: 
@@ -46,17 +46,16 @@ Bitte wiederholen Sie den Aufruf von "appletviewer <url>", wenn es nicht beim er
 Achtung:
 --------
 
-.. class:: text-warning
-
-bei der Webseite *www.fritz-heinrichmeyer.de* funktionieren die *Java-Applets* nicht *(der erste Link: 1)*
-(mit meinen Zertifikat!)
-Deswegen gibt es noch ein zweite Link auf die Webseite *fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/* *(der zweite Link: 2)* ! 
+.. 
+ bei der Webseite *www.fritz-heinrichmeyer.de* funktionieren die *Java-Applets* nicht *(der erste Link: 1)*
+ (mit meinen Zertifikat!)
+ Deswegen gibt es noch ein zweite Link auf die Webseite *fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/* *(der zweite Link: 2)* ! 
 
 
 Diskrete Faltung
 ----------------
-.. class:: text-warning
 
+..
  Diskrete Faltung1 `Diskrete Faltung1 </diskrete_faltung/index.html>`_
 
 
@@ -64,24 +63,24 @@ Diskrete Faltung
 
 Systementwurf mit der Maus
 --------------------------
-.. class:: text-warning
-	   
-Systementwurf mit der Maus1 `Systementwurf mit der Maus1 </systementwurf_mit_der_maus/index.html>`_
+
+..	   
+ Systementwurf mit der Maus1 `Systementwurf mit der Maus1 </systementwurf_mit_der_maus/index.html>`_
 
 `Systementwurf mit der Maus2 <https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/systementwurf_mit_der_maus/index.html>`_
 
 Java 2D Funktionsplotter
 ------------------------
-.. class:: text-warning
 
-Java 2D Funktionsplotter1 `Java 2D Funktionsplotter1 </java_zwei_d_funktionsplotter/index.html>`_
+..
+ Java 2D Funktionsplotter1 `Java 2D Funktionsplotter1 </java_zwei_d_funktionsplotter/index.html>`_
 
 `Java 2D Funktionsplotter2 <https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/java_zwei_d_funktionsplotter/index.html>`_
 
 Java 3D Funktionsplotter
 ------------------------
-.. class:: text-warning
 
-Java 3D Funktionsplotter1 `Java 3D Funktionsplotter1 </java_drei_d_funktionsplotter/index.html>`_
+..
+ Java 3D Funktionsplotter1 `Java 3D Funktionsplotter1 </java_drei_d_funktionsplotter/index.html>`_
 
 `Java 3D Funktionsplotter2 <https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/java_drei_d_funktionsplotter/index.html>`_

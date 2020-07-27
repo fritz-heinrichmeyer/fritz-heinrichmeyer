@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer (Einträge über Java)</title><link>/</link><description></description><atom:link href="/categories/java.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Sun, 31 May 2020 14:02:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Java-Applets</title><link>/posts/java-applets/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Hier finden Sie Java-Applets zu den Fachgebieten Elektronische Schaltungen und Digitale Signalverarbeitung.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer (Einträge über Java)</title><link>/</link><description></description><atom:link href="/categories/java.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Mon, 27 Jul 2020 10:51:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Java-Applets</title><link>/posts/java-applets/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Hier finden Sie Java-Applets zu den Fachgebieten Elektronische Schaltungen und Digitale Signalverarbeitung.&lt;/p&gt;
 &lt;p&gt;Ab Chrome-Version 45 Java-Applets funktionieren nicht mehr!&lt;/p&gt;
 &lt;p&gt;Ab Firefox-Version 52 (im März 2017 freigegeben) funktionieren Java-Applets nicht mehr!. Schade.
 Sie müssen "appletviewer &amp;lt;url&amp;gt;" verwenden (in jdk(Java Java Development Kit)-131 enthalten).&lt;/p&gt;
@@ -19,30 +19,30 @@ herunterladen. Ich empfehle  für Windows&lt;/p&gt;
 &lt;p&gt;Bitte wiederholen Sie den Aufruf von "appletviewer &amp;lt;url&amp;gt;", wenn es nicht beim ersten Mal geklappt hat!&lt;/p&gt;
 &lt;div class="section" id="achtung"&gt;
 &lt;h2&gt;Achtung:&lt;/h2&gt;
-&lt;p class="text-warning"&gt;bei der Webseite &lt;em&gt;www.fritz-heinrichmeyer.de&lt;/em&gt; funktionieren die &lt;em&gt;Java-Applets&lt;/em&gt; nicht &lt;em&gt;(der erste Link: 1)&lt;/em&gt;
+&lt;!-- bei der Webseite *www.fritz-heinrichmeyer.de* funktionieren die *Java-Applets* nicht *(der erste Link: 1)*
 (mit meinen Zertifikat!)
-Deswegen gibt es noch ein zweite Link auf die Webseite &lt;em&gt;fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/&lt;/em&gt; &lt;em&gt;(der zweite Link: 2)&lt;/em&gt; !&lt;/p&gt;
+Deswegen gibt es noch ein zweite Link auf die Webseite *fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/* *(der zweite Link: 2)* ! --&gt;
 &lt;/div&gt;
 &lt;div class="section" id="diskrete-faltung"&gt;
 &lt;h2&gt;Diskrete Faltung&lt;/h2&gt;
-&lt;p class="text-warning"&gt;Diskrete Faltung1 &lt;a class="reference external" href="/diskrete_faltung/index.html"&gt;Diskrete Faltung1&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Diskrete Faltung1 `Diskrete Faltung1 &lt;/diskrete_faltung/index.html&gt;`_ --&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/diskrete_faltung/index.html"&gt;Diskrete Faltung2&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="systementwurf-mit-der-maus"&gt;
 &lt;h2&gt;Systementwurf mit der Maus&lt;/h2&gt;
-&lt;p class="text-warning"&gt;Systementwurf mit der Maus1 &lt;a class="reference external" href="/systementwurf_mit_der_maus/index.html"&gt;Systementwurf mit der Maus1&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Systementwurf mit der Maus1 `Systementwurf mit der Maus1 &lt;/systementwurf_mit_der_maus/index.html&gt;`_ --&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/systementwurf_mit_der_maus/index.html"&gt;Systementwurf mit der Maus2&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="java-2d-funktionsplotter"&gt;
 &lt;h2&gt;Java 2D Funktionsplotter&lt;/h2&gt;
-&lt;p class="text-warning"&gt;Java 2D Funktionsplotter1 &lt;a class="reference external" href="/java_zwei_d_funktionsplotter/index.html"&gt;Java 2D Funktionsplotter1&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Java 2D Funktionsplotter1 `Java 2D Funktionsplotter1 &lt;/java_zwei_d_funktionsplotter/index.html&gt;`_ --&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/java_zwei_d_funktionsplotter/index.html"&gt;Java 2D Funktionsplotter2&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="java-3d-funktionsplotter"&gt;
 &lt;h2&gt;Java 3D Funktionsplotter&lt;/h2&gt;
-&lt;p class="text-warning"&gt;Java 3D Funktionsplotter1 &lt;a class="reference external" href="/java_drei_d_funktionsplotter/index.html"&gt;Java 3D Funktionsplotter1&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Java 3D Funktionsplotter1 `Java 3D Funktionsplotter1 &lt;/java_drei_d_funktionsplotter/index.html&gt;`_ --&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/java_drei_d_funktionsplotter/index.html"&gt;Java 3D Funktionsplotter2&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>applets</category><category>Java</category><guid>/posts/java-applets/</guid><pubDate>Fri, 01 May 2020 06:10:45 GMT</pubDate></item><item><title>RSTtables Experimente</title><link>/posts/rsttablesexperimente/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>applets</category><category>Java</category><guid>/posts/java-applets/</guid><pubDate>Sun, 26 Jul 2020 06:10:45 GMT</pubDate></item><item><title>RSTtables Experimente</title><link>/posts/rsttablesexperimente/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://docutils.sourceforge.net/docs/ref/rst/directives.html#class"&gt;(Quellen RST Für Fortgeschrittene )&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://getnikola.com/quickstart.html"&gt;A reStructuredText Primer&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
