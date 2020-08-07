@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>/categories/applets.xml</loc>
-  <lastmod>2020-05-31T14:02:00Z</lastmod>
+  <lastmod>2020-07-27T10:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/cat_posts.xml</loc>
-  <lastmod>2020-07-13T06:17:00Z</lastmod>
+  <lastmod>2020-07-27T10:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/hemer.xml</loc>
@@ -19,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>/categories/java.xml</loc>
-  <lastmod>2020-05-31T14:02:00Z</lastmod>
+  <lastmod>2020-07-27T10:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/rst.xml</loc>
@@ -35,10 +35,10 @@
  </sitemap>
  <sitemap>
   <loc>/rss.xml</loc>
-  <lastmod>2020-07-13T06:17:00Z</lastmod>
+  <lastmod>2020-07-27T10:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/sitemap.xml</loc>
-  <lastmod>2020-07-13T06:17:00Z</lastmod>
+  <lastmod>2020-08-07T07:45:00Z</lastmod>
  </sitemap>
 </sitemapindex>
