@@ -1,6 +1,6 @@
 .. title: ZWAR-April
 .. slug: zwar-april
-.. date: 2020-03-16 14:17:34 UTC+01:00
+.. date: 2020-09-21 14:17:34 UTC+01:00
 .. tags: ZWAR, Hemer
 .. category: 
 .. link: 
@@ -15,6 +15,8 @@ wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
 
 
 .. class:: text-warning
+
+**!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
 
 **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
 

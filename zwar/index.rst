@@ -20,6 +20,10 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelle
 
 .. class:: text-warning
 
+**!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
+
+.. class:: text-warning
+
 **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
 
    -  Repair Café am 04.04.2020
