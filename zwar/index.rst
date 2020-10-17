@@ -18,15 +18,16 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelle
  <abbr title="Zwischen Arbeit und Ruhestand">ZWAR</abbr>
 
 
-.. class:: text-warning
+..
+ class:: text-warning
 
-**!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
+ **!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
 
 .. class:: text-warning
 
 **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
 
-   -  Repair Café am 04.04.2020
+   -  Repair Café 
 
 
 
@@ -42,12 +43,12 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 (JUK: Jugend Zentrum) um 18.00 Uhr,
 
 
-nächste Basis-Treffen findet am `11.08.2020  </zwar/ZWAR-Basis.ics>`_  in Jugend- und Kulturzentrum am Park (JuK), Parkstraße 3, 58675 Hemer,  um 18.00 Uhr statt.
+nächste Basis-Treffen findet am `20.10.2020  </zwar/ZWAR-Basis.ics>`_  in Jugend- und Kulturzentrum am Park (JuK), Parkstraße 3, 58675 Hemer,  um 18.00 Uhr statt.
 
 
 
 
-Ab Juli findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
+Das Basis-Treffen findet normalerweise Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
 
 .. 

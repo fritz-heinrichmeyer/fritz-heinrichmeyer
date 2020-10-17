@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer (Einträge über posts)</title><link>/</link><description></description><atom:link href="/categories/cat_posts.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Tue, 22 Sep 2020 07:07:39 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ZWAR-April</title><link>/posts/zwar-april/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Seiten sind ein Auszug vom &lt;a class="reference external" href="http://www.zwar-hemer.de/aktuelles.htm"&gt;ZWAR Hemer&lt;/a&gt; (Alles, was mir besonders
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer (Einträge über posts)</title><link>/</link><description></description><atom:link href="/categories/cat_posts.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Sat, 17 Oct 2020 10:31:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ZWAR-April</title><link>/posts/zwar-april/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Seiten sind ein Auszug vom &lt;a class="reference external" href="http://www.zwar-hemer.de/aktuelles.htm"&gt;ZWAR Hemer&lt;/a&gt; (Alles, was mir besonders
 wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
 &lt;a class="reference external" href="https://www.zwar.org/de/zwar-netzwerke/"&gt;zwar netzwerke&lt;/a&gt;&lt;/p&gt;
-&lt;p class="text-warning"&gt;&lt;strong&gt;!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nachrichten zu Pandemie :&lt;/strong&gt; Veranstaltungen, die wegen Corona ausfallen:&lt;/p&gt;
-&lt;p&gt;Ab Juli findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.&lt;/p&gt;
-&lt;p&gt;siehe auch &lt;a class="reference external" href="/zwar/"&gt;ZWAR Gruppe Hemer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Hemer</category><category>ZWAR</category><guid>/posts/zwar-april/</guid><pubDate>Mon, 21 Sep 2020 13:17:34 GMT</pubDate></item><item><title>Java-Applets</title><link>/posts/java-applets/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Hier finden Sie Java-Applets zu den Fachgebieten Elektronische Schaltungen und Digitale Signalverarbeitung.&lt;/p&gt;
+&lt;!-- class:: text-warning
+
+**!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!** --&gt;
+&lt;p class="text-warning"&gt;&lt;strong&gt;Nachrichten zu Pandemie :&lt;/strong&gt; Veranstaltungen, die wegen Corona ausfallen:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;Repair Café&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Das Basis-Treffen findet normalerweise Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.&lt;/p&gt;
+&lt;p&gt;siehe auch &lt;a class="reference external" href="/zwar/"&gt;ZWAR Gruppe Hemer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Hemer</category><category>ZWAR</category><guid>/posts/zwar-april/</guid><pubDate>Fri, 16 Oct 2020 13:17:34 GMT</pubDate></item><item><title>Java-Applets</title><link>/posts/java-applets/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Hier finden Sie Java-Applets zu den Fachgebieten Elektronische Schaltungen und Digitale Signalverarbeitung.&lt;/p&gt;
 &lt;p&gt;Ab Chrome-Version 45 Java-Applets funktionieren nicht mehr!&lt;/p&gt;
 &lt;p&gt;Ab Firefox-Version 52 (im März 2017 freigegeben) funktionieren Java-Applets nicht mehr!. Schade.
 Sie müssen "appletviewer &amp;lt;url&amp;gt;" verwenden (in jdk(Java Java Development Kit)-131 enthalten).&lt;/p&gt;
