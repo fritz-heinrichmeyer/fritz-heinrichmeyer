@@ -43,7 +43,7 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 (JUK: Jugend Zentrum) um 18.00 Uhr,
 
 
-nächste Basis-Treffen findet am `20.10.2020  </zwar/ZWAR-Basis.ics>`_  in Jugend- und Kulturzentrum am Park (JuK), Parkstraße 3, 58675 Hemer,  um 18.00 Uhr statt.
+Das nächste Basis-Treffen findet am `20.10.2020  </zwar/ZWAR-Basis.ics>`_  in Jugend- und Kulturzentrum am Park (JuK), Parkstraße 3, 58675 Hemer,  um 18.00 Uhr statt.
 
 
 
