@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer</title><link>/</link><description>This is a demo site for Nikola.</description><atom:link href="/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Sat, 17 Oct 2020 10:31:47 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ZWAR-April</title><link>/posts/zwar-april/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Seiten sind ein Auszug vom &lt;a class="reference external" href="http://www.zwar-hemer.de/aktuelles.htm"&gt;ZWAR Hemer&lt;/a&gt; (Alles, was mir besonders
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fritz Heinrichmeyer</title><link>/</link><description>This is a demo site for Nikola.</description><atom:link href="/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><lastBuildDate>Sat, 23 Jan 2021 08:09:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>textile Metadata</title><link>/posts/textile-experimente/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;textile&lt;/em&gt; ist eine sehr mächtige  Auszeichnungssprache (markup_language)&lt;/p&gt;
+
+
+	&lt;p class="text-warning"&gt;Metadata muss auskommentiert werden (texile comment format siehe &lt;a href="https://textile-lang.com/doc/textile-comments"&gt;textile-comment&lt;/a&gt;)&lt;/p&gt;
+
+	&lt;p&gt;Das Problem tritt nur in Windows auf (cr/lf Zeile-Endung ) &lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Textile_%28markup_language%29"&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a href="/posts/textile-experimente/majestaetwilli.jpg"&gt;&lt;img alt="" src="/posts/textile-experimente/williklein.jpg"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>textile</category><guid>/posts/textile-experimente/</guid><pubDate>Thu, 21 Jan 2021 08:41:28 GMT</pubDate></item><item><title>ZWAR-April</title><link>/posts/zwar-april/</link><dc:creator>Fritz Heinrichmeyer</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Seiten sind ein Auszug vom &lt;a class="reference external" href="http://www.zwar-hemer.de/aktuelles.htm"&gt;ZWAR Hemer&lt;/a&gt; (Alles, was mir besonders
 wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
 &lt;a class="reference external" href="https://www.zwar.org/de/zwar-netzwerke/"&gt;zwar netzwerke&lt;/a&gt;&lt;/p&gt;
 &lt;!-- class:: text-warning

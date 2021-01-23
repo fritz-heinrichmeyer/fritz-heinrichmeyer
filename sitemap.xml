@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2021-01-13T11:10:00Z</lastmod>
+  <lastmod>2021-01-22T16:42:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
@@ -22,16 +22,20 @@
   <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
+  <loc>/2021/</loc>
+  <lastmod>2021-01-22T16:42:00Z</lastmod>
+ </url>
+ <url>
   <loc>/Doktorarbeit/</loc>
   <lastmod>2020-05-01T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2021-01-13T11:10:00Z</lastmod>
+  <lastmod>2021-01-22T16:42:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/</loc>
-  <lastmod>2020-05-01T08:42:00Z</lastmod>
+  <lastmod>2021-01-22T17:00:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/applets/</loc>
@@ -54,6 +58,10 @@
   <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
  <url>
+  <loc>/categories/textile/</loc>
+  <lastmod>2021-01-22T17:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>/categories/zwar/</loc>
   <lastmod>2020-05-01T08:42:00Z</lastmod>
  </url>
@@ -71,7 +79,7 @@
  </url>
  <url>
   <loc>/doktorarbeit/</loc>
-  <lastmod>2021-01-13T11:10:00Z</lastmod>
+  <lastmod>2021-01-14T06:47:00Z</lastmod>
  </url>
  <url>
   <loc>/familie/</loc>
@@ -127,7 +135,7 @@
  </url>
  <url>
   <loc>/posts/</loc>
-  <lastmod>2020-05-01T08:42:00Z</lastmod>
+  <lastmod>2021-01-22T16:42:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/antinputtask/</loc>
@@ -148,6 +156,10 @@
  <url>
   <loc>/posts/sperber/</loc>
   <lastmod>2020-05-01T08:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/textile-experimente/</loc>
+  <lastmod>2021-01-23T07:56:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/zwar-april/</loc>

@@ -11,7 +11,7 @@
  </sitemap>
  <sitemap>
   <loc>/categories/cat_posts.xml</loc>
-  <lastmod>2020-10-17T10:31:00Z</lastmod>
+  <lastmod>2021-01-23T07:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/hemer.xml</loc>
@@ -26,6 +26,10 @@
   <lastmod>2020-05-31T14:02:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>/categories/textile.xml</loc>
+  <lastmod>2021-01-23T07:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>/categories/zwar.xml</loc>
   <lastmod>2020-10-17T10:31:00Z</lastmod>
  </sitemap>
@@ -35,10 +39,10 @@
  </sitemap>
  <sitemap>
   <loc>/rss.xml</loc>
-  <lastmod>2020-10-17T10:31:00Z</lastmod>
+  <lastmod>2021-01-23T07:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/sitemap.xml</loc>
-  <lastmod>2021-01-13T11:10:00Z</lastmod>
+  <lastmod>2021-01-23T07:56:00Z</lastmod>
  </sitemap>
 </sitemapindex>

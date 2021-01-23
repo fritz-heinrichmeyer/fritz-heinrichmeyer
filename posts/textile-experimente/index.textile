@@ -1,0 +1,27 @@
+###. This line will be treated as a comment.
+Metadata muss auskommentiert werden(texile comment format siehe textile-comment Link unten)
+.. title: textile Metadata
+.. slug: textile-experimente
+.. date: 2021-01-21 09:41:28 UTC+01:00
+.. tags: textile
+.. category: 
+.. description: textile Experimente
+.. type: text
+
+_textile_ ist eine sehr mächtige  Auszeichnungssprache (markup_language)
+
+
+p(text-warning). Metadata muss auskommentiert werden (texile comment format siehe "textile-comment":https://textile-lang.com/doc/textile-comments)
+
+Das Problem tritt nur in Windows auf (cr/lf Zeile-Endung ) 
+
+
+"Wikipedia":https://en.wikipedia.org/wiki/Textile_(markup_language)
+
+
+!williklein.jpg!:/posts/textile-experimente/majestaetwilli.jpg
+
+###. !(rounded-circle)majestaetwilli.jpg(Ein schönes Bild)!
+
+ 
+ 
