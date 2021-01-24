@@ -10,8 +10,9 @@ Metadata muss auskommentiert werden(texile comment format siehe textile-comment 
 
 _textile_ ist eine sehr mächtige  Auszeichnungssprache (markup_language)
 
+p(text-warning). Hinweis:
 
-p(text-warning). Metadata muss auskommentiert werden (texile comment format siehe "textile-comment":https://textile-lang.com/doc/textile-comments)
+p(text-warning). "nikola-Metadata":https://getnikola.com/handbook.html#metadata-formats muss auskommentiert werden (texile comment format siehe "textile-comment":https://textile-lang.com/doc/textile-comments)
 
 Das Problem tritt nur in Windows auf (cr/lf Zeile-Endung ) 
 
@@ -19,7 +20,7 @@ Das Problem tritt nur in Windows auf (cr/lf Zeile-Endung )
 "Wikipedia":https://en.wikipedia.org/wiki/Textile_(markup_language)
 
 
-!williklein.jpg!:/posts/textile-experimente/majestaetwilli.jpg
+!(rounded-circle)williklein.jpg!:/posts/textile-experimente/majestaetwilli.jpg
 
 ###. !(rounded-circle)majestaetwilli.jpg(Ein schönes Bild)!
 
