@@ -19,9 +19,9 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelle
 
 
 ..
- class:: text-warning
+.. class:: text-warning
 
- **!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
+.. **!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
 
 .. class:: text-warning
 
@@ -43,7 +43,7 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 (JUK: Jugend Zentrum) um 18.00 Uhr,
 
 
-Das nächste Basis-Treffen findet am `20.10.2020  </zwar/ZWAR-Basis.ics>`_  in Jugend- und Kulturzentrum am Park (JuK), Parkstraße 3, 58675 Hemer,  um 18.00 Uhr statt.
+Das nächste Basis-Treffen findet am `21.09.2021  </zwar/ZWAR-Basis.ics>`_  in Jugend- und Kulturzentrum am Park (JuK), Parkstraße 3, 58675 Hemer,  um 18.00 Uhr statt.
 
 
 
