@@ -1,6 +1,6 @@
-.. title: ZWAR-April
+.. title: ZWAR-aktuell
 .. slug: zwar-april
-.. date: 2020-10-16 14:17:34 UTC+01:00
+.. date: 2021-09-15 14:17:34 UTC+01:00
 .. tags: ZWAR, Hemer
 .. category: 
 .. link: 
@@ -17,14 +17,18 @@ wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
 ..
  class:: text-warning
 
- **!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
+ .. **!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
 
 
 .. class:: text-warning
 
 **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
 
-   -  Repair Café 
+   -  zur Zeit fällt nichts aus
+
+.. Repair Café
+   
+
 
 
 Das Basis-Treffen findet normalerweise Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.

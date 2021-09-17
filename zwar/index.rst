@@ -18,16 +18,13 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelle
  <abbr title="Zwischen Arbeit und Ruhestand">ZWAR</abbr>
 
 
-..
-.. class:: text-warning
 
 .. **!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
 
-.. class:: text-warning
 
-**Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
+.. **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
 
-   -  Repair Café 
+..   -  Repair Café 
 
 
 
@@ -92,8 +89,8 @@ Repair Café
 
 Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt.
 
-..
- Das nächste Repair Café startet am `04.04.2020 </pages/zwar/ZWAR-repair.ics>`_ um 14.00 Uhr.
+Wir planen, vorausgesetzt Corona macht uns keine Strich durch die Rechnung, am Samstag, den `02.10.2021 </zwar/ZWAR-repair.ics>`_  von 14:00 bis 17:00 Uhr das Repair Café in der KEA in Deilinghofen wieder zu öffnen. Es gelten aber die 3G Regeln von Corona die auch beim Einlass kontrolliert werden müssen. Außerdem haben wir beschlossen, dass jeder Besucher nur ein zu reparierendes Teil mitbringen darf. Die Öffnungszeiten haben wir um eine Stunde verlängert
+
 
 .. 
  vorher: raw:: html
