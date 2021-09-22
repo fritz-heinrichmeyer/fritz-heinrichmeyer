@@ -9,7 +9,7 @@
 
 
 Diese Seiten sind ein Auszug vom `ZWAR Hemer
-<http://www.zwar-hemer.de/aktuelles.htm>`_ (Alles, was mir besonders
+<https://www.zwar-hemer.de/aktuelles.htm>`_ (Alles, was mir besonders
 wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
 `zwar netzwerke <https://www.zwar.org/de/zwar-netzwerke/>`_
 
