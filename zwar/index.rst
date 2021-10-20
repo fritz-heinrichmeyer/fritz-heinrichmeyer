@@ -40,7 +40,7 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 (JUK: Jugend Zentrum) um 18.00 Uhr, die üblichen Hygieneregeln sind einzuhalten.
 
 
-Das nächste Basis-Treffen findet am `19.10.2021  </zwar/ZWAR-Basis.ics>`_   **ausnahmweise** im Bürgerzentrum (altes Amtshaus), Hauptstraße 116, 58675 Hemer,  um 18.00 Uhr statt.
+Das nächste Basis-Treffen findet am `02.11.2021  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
 
 
