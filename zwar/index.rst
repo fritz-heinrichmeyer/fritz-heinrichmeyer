@@ -20,11 +20,12 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <https://www.zwar-hemer.de/aktuell
 
 
 .. **!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
+   
+.. class:: text-warning
 
+**Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
 
-.. **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
-
-..   -  Repair Café 
+   -  Repair Café 
 
 
 
@@ -40,7 +41,7 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 (JUK: Jugend Zentrum) um 18.00 Uhr, die üblichen Hygieneregeln sind einzuhalten.
 
 
-Das nächste Basis-Treffen findet am `30.11.2021  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
+.. Das nächste Basis-Treffen findet am `30.11.2021  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
 
 
@@ -86,10 +87,17 @@ Für mich Besonders wichtige Gruppen
 
 Repair Café
 -----------
+.. class:: text-warning
+	   
+fällt wegen Corona aus!
 
-Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt.
+.. 
+ Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt.
 
-Wir planen, vorausgesetzt Corona macht uns keine Strich durch die Rechnung, am Samstag, den `04.12.2021 </zwar/ZWAR-repair.ics>`_  von 14:00 bis 17:00 Uhr das Repair Café in der KEA in Deilinghofen wieder zu öffnen. Es gelten aber die 3G Regeln von Corona die auch beim Einlass kontrolliert werden müssen. Außerdem haben wir beschlossen, dass jeder Besucher nur ein zu reparierendes Teil mitbringen darf. Die Öffnungszeiten haben wir um eine Stunde verlängert
+
+	   
+
+.. Wir planen, vorausgesetzt Corona macht uns keine Strich durch die Rechnung, am Samstag, den `04.12.2021 </zwar/ZWAR-repair.ics>`_  von 14:00 bis 17:00 Uhr das Repair Café in der KEA in Deilinghofen wieder zu öffnen. Es gelten aber die 3G Regeln von Corona die auch beim Einlass kontrolliert werden müssen. Außerdem haben wir beschlossen, dass jeder Besucher nur ein zu reparierendes Teil mitbringen darf. Die Öffnungszeiten haben wir um eine Stunde verlängert
 
 
 .. 

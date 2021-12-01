@@ -24,7 +24,7 @@ wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
 
 **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
 
-   -  zur Zeit fällt nichts aus
+   -  Repair Café
 
 .. Repair Café
    
