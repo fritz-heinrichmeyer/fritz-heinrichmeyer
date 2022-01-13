@@ -40,6 +40,8 @@ ZWAR – Basis-Treffen
 Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*wie altmodisch!!*). Nur dort bekomme ich die Kontakt-Daten von den Gruppen. Wir treffen uns im 14-tägigen Rhythmus in der Parkstraße 3, 58675 Hemer,
 (JUK: Jugend Zentrum) um 18.00 Uhr, die üblichen Hygieneregeln sind einzuhalten.
 
+Zur Zeit findet das Basis-Treffen nur ein Mal in Monat  **online** statt (als Zoom Meeting).
+
 
 .. Das nächste Basis-Treffen findet am `30.11.2021  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
