@@ -1,6 +1,6 @@
 .. title: ZWAR-aktuell
 .. slug: zwar-april
-.. date: 2021-09-15 14:17:34 UTC+01:00
+.. date: 2022-03-08 14:17:34 UTC+01:00
 .. tags: ZWAR, Hemer
 .. category: 
 .. link: 

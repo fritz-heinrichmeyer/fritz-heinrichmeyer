@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2021-01-22T16:42:00Z</lastmod>
+  <lastmod>2022-03-09T09:05:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
@@ -26,12 +26,16 @@
   <lastmod>2021-01-22T16:42:00Z</lastmod>
  </url>
  <url>
+  <loc>/2022/</loc>
+  <lastmod>2022-03-09T09:05:00Z</lastmod>
+ </url>
+ <url>
   <loc>/Doktorarbeit/</loc>
   <lastmod>2020-05-01T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2022-01-12T08:09:00Z</lastmod>
+  <lastmod>2022-03-09T09:05:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/</loc>
