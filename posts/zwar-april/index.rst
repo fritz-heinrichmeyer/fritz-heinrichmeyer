@@ -1,6 +1,6 @@
 .. title: ZWAR-aktuell
 .. slug: zwar-april
-.. date: 2022-03-08 14:17:34 UTC+01:00
+.. date: 2022-03-21 14:17:34 UTC+01:00
 .. tags: ZWAR, Hemer
 .. category: 
 .. link: 
@@ -20,9 +20,11 @@ wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
  .. **!! Diese Seite wird nicht mehr gepflegt (wegen Corona: 22.09.2020)!!**
 
 
-.. class:: text-warning
+..
+ class:: text-warning
 
-**Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
+..
+ **Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
 
    -  Repair Café
 
