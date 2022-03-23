@@ -119,7 +119,7 @@ Wir planen, vorausgesetzt Corona macht uns keine Strich durch die Rechnung, am S
 Nordic-Walking
 --------------
 
-Die Nordic-Walking Gruppen treffen sich jeden Montag um 14:00 Uhr, jeden Mittwoch um 17:00 Uhr und jeden Freitag um 10.00 Uhr bei der „Ente“ in Deilinghofen, nahe beim Eingang zum Sauerlandpark.
+Die Nordic-Walking Gruppen treffen sich jeden Montag um 14:00 Uhr, jeden Mittwoch um 15:00 Uhr und jeden Freitag um 10.00 Uhr bei der „Ente“ in Deilinghofen, nahe beim Eingang zum Sauerlandpark.
 
 
 

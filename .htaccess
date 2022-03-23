@@ -1,6 +1,7 @@
 # AddType text/plain .vcf 
 # hat nicht geholfen:
  AddType application/java-vm .class
+ AddType text/calendar .ics 
 #  [application/java-vm]
 #hat nicht geholfen:
 #<FilesMatch "\.vcf$">
