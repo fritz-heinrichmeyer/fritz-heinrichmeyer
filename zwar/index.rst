@@ -3,7 +3,7 @@
 .. date: 2016-12-12 13:50:58 UTC+01:00
 .. tags: ZWAR, Hemer
 .. category: 
-.. link: /pages/zwar-inhalt/index.hmtl
+.. link: /zwar/index.hmtl
 .. description: ZWAR für Fritz Heinrichmeyer
 .. type: text
 
