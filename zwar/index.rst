@@ -13,9 +13,11 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <https://www.zwar-hemer.de/aktuell
  (**TIP**: *Google Calendar* Links anklicken, um den Termin in Ihrem Google Kalender einzutragen)
 
 
-.. raw:: html
+..
+ raw:: html
 
- <abbr title="Zwischen Arbeit und Ruhestand">ZWAR</abbr>
+.. <abbr title="Zwischen Arbeit und Ruhestand">ZWAR</abbr>
+.. (hat nichts gebracht)
 
 
 
@@ -47,6 +49,10 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 
 Das nächste Basis-Treffen findet am `05.04.2022  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
+..
+ raw:: html
+
+ <a href="/zwar/ZWAR-Basis.ics" type="text/calendar" >05.04.2022</a>
 
 
 
