@@ -47,7 +47,7 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 
 
 
-Das nächste Basis-Treffen findet am `05.04.2022  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
+Das nächste Basis-Treffen findet am `19.04.2022  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
 ..
  raw:: html
@@ -116,7 +116,7 @@ Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 H
 
 	   
 
-Wir planen, vorausgesetzt Corona macht uns keine Strich durch die Rechnung, am Samstag, den `02.04.2022 </zwar/ZWAR-repair.ics>`_  von 14:00 bis 17:00 Uhr das Repair Café in der KEA in Deilinghofen wieder zu öffnen. Es gelten aber die 2G Regeln von Corona die auch beim Einlass kontrolliert werden müssen. Außerdem haben wir beschlossen, dass jeder Besucher nur ein zu reparierendes Teil mitbringen darf. Die Öffnungszeiten haben wir um eine Stunde verlängert
+Wir planen, vorausgesetzt Corona macht uns keine Strich durch die Rechnung, am Samstag, den `07.05.2022 </zwar/ZWAR-repair.ics>`_  von 14:00 bis 17:00 Uhr das Repair Café in der KEA in Deilinghofen wieder zu öffnen. Es gelten aber die Regeln von Corona die auch beim Einlass kontrolliert werden müssen. Außerdem haben wir beschlossen, dass jeder Besucher nur ein zu reparierendes Teil mitbringen darf. Die Öffnungszeiten haben wir um eine Stunde verlängert
 
 
 .. 
