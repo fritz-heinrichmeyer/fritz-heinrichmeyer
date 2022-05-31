@@ -47,7 +47,7 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 
 
 
-Das nächste Basis-Treffen findet am `31.05.2022  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
+Das nächste Basis-Treffen findet am `28.06.2022  </zwar/ZWAR-Basis.ics>`_   um 18.00 Uhr - 19.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
 ..
  raw:: html
