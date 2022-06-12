@@ -116,7 +116,7 @@ Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 H
 
 	   
 
-Wir planen, vorausgesetzt Corona macht uns keine Strich durch die Rechnung, am Samstag, den `11.06.2022 </zwar/ZWAR-repair.ics>`_  (verschoben wegen Pfingsten) von 14:00 bis 17:00 Uhr das Repair Café in der KEA in Deilinghofen wieder zu öffnen. Es gelten aber die Regeln von Corona die auch beim Einlass kontrolliert werden müssen. Außerdem haben wir beschlossen, dass jeder Besucher nur ein zu reparierendes Teil mitbringen darf. Die Öffnungszeiten haben wir um eine Stunde verlängert
+Wir planen, vorausgesetzt Corona macht uns keine Strich durch die Rechnung, am Samstag, den `02.07.2022 </zwar/ZWAR-repair.ics>`_   von 14:00 bis 17:00 Uhr das Repair Café in der KEA in Deilinghofen wieder zu öffnen. Es gelten aber die Regeln von Corona die auch beim Einlass kontrolliert werden müssen. Außerdem haben wir beschlossen, dass jeder Besucher nur ein zu reparierendes Teil mitbringen darf. Die Öffnungszeiten haben wir um eine Stunde verlängert
 
 
 .. 
